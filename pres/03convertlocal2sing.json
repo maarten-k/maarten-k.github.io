@@ -1,0 +1,5226 @@
+{
+  "version": 1,
+  "width": 107,
+  "height": 26,
+  "duration": 63.664986,
+  "command": "asciinema play -w 0.5 convertlocal2sing.json",
+  "title": null,
+  "env": {
+    "TERM": "xterm-256color",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.462486,
+      "\u001b]0;maartenk@ubuntu: ~/docker/alpine/expansionhunter\u0007\u001b[01;32mmaartenk@ubuntu\u001b[00m:\u001b[01;34m~/docker/alpine/expansionhunter\u001b[00m$ "
+    ],
+    [
+      0.5,
+      "s"
+    ],
+    [
+      0.107447,
+      "i"
+    ],
+    [
+      0.152512,
+      "n"
+    ],
+    [
+      0.5,
+      "\b\u001b[K"
+    ],
+    [
+      0.194869,
+      "\b\u001b[K"
+    ],
+    [
+      0.249748,
+      "\b\u001b[K"
+    ],
+    [
+      0.216375,
+      "d"
+    ],
+    [
+      0.281172,
+      "o"
+    ],
+    [
+      0.100416,
+      "c"
+    ],
+    [
+      0.152746,
+      "k"
+    ],
+    [
+      0.109157,
+      "e"
+    ],
+    [
+      0.209562,
+      "r"
+    ],
+    [
+      0.489752,
+      " "
+    ],
+    [
+      0.17963,
+      "i"
+    ],
+    [
+      0.160232,
+      "m"
+    ],
+    [
+      0.076486,
+      "a"
+    ],
+    [
+      0.163321,
+      "g"
+    ],
+    [
+      0.119959,
+      "e"
+    ],
+    [
+      0.16008,
+      "s"
+    ],
+    [
+      0.407535,
+      "\r\r\n"
+    ],
+    [
+      0.019855,
+      "REPOSITORY"
+    ],
+    [
+      0.001249,
+      "        "
+    ],
+    [
+      0.000506,
+      "  "
+    ],
+    [
+      0.000377,
+      "TAG"
+    ],
+    [
+      8e-05,
+      "        "
+    ],
+    [
+      0.000429,
+      "        "
+    ],
+    [
+      0.000375,
+      " "
+    ],
+    [
+      0.000333,
+      "IMAGE ID"
+    ],
+    [
+      0.000376,
+      "        "
+    ],
+    [
+      0.000362,
+      "    "
+    ],
+    [
+      0.000338,
+      "CREATED"
+    ],
+    [
+      0.000331,
+      "        "
+    ],
+    [
+      0.000444,
+      "     "
+    ],
+    [
+      0.000461,
+      "SIZE"
+    ],
+    [
+      0.000348,
+      "\r\r\n"
+    ],
+    [
+      0.000527,
+      "expansionhunter"
+    ],
+    [
+      0.000267,
+      "     "
+    ],
+    [
+      0.000431,
+      "2.5.1-dev"
+    ],
+    [
+      0.000423,
+      "        "
+    ],
+    [
+      0.000406,
+      "   "
+    ],
+    [
+      0.000283,
+      "30a8c95487ac"
+    ],
+    [
+      0.000468,
+      "        "
+    ],
+    [
+      0.000465,
+      "18 minutes ago"
+    ],
+    [
+      0.000569,
+      "      "
+    ],
+    [
+      0.00036,
+      "484.1 MB"
+    ],
+    [
+      0.000346,
+      "\r\r\n"
+    ],
+    [
+      0.000425,
+      "alpine"
+    ],
+    [
+      0.000395,
+      "        "
+    ],
+    [
+      0.000289,
+      "      "
+    ],
+    [
+      0.000646,
+      "3.6"
+    ],
+    [
+      7.4e-05,
+      "        "
+    ],
+    [
+      5.7e-05,
+      "        "
+    ],
+    [
+      3.5e-05,
+      " "
+    ],
+    [
+      7.2e-05,
+      "665ffb03bfae"
+    ],
+    [
+      3.2e-05,
+      "        "
+    ],
+    [
+      2.9e-05,
+      "2 days ago"
+    ],
+    [
+      7.5e-05,
+      "        "
+    ],
+    [
+      3.2e-05,
+      "  "
+    ],
+    [
+      3.7e-05,
+      "3.966 MB"
+    ],
+    [
+      6.4e-05,
+      "\r\r\n"
+    ],
+    [
+      0.00253,
+      "\u001b]0;maartenk@ubuntu: ~/docker/alpine/expansionhunter\u0007\u001b[01;32mmaartenk@ubuntu\u001b[00m:\u001b[01;34m~/docker/alpine/expansionhunter\u001b[00m$ "
+    ],
+    [
+      0.5,
+      "s"
+    ],
+    [
+      0.116779,
+      "u"
+    ],
+    [
+      0.125957,
+      "d"
+    ],
+    [
+      0.129089,
+      "o"
+    ],
+    [
+      0.23704,
+      " "
+    ],
+    [
+      0.5,
+      "d"
+    ],
+    [
+      0.168016,
+      "o"
+    ],
+    [
+      0.14685,
+      "c"
+    ],
+    [
+      0.22484,
+      "k"
+    ],
+    [
+      0.174244,
+      "e"
+    ],
+    [
+      0.251183,
+      "r"
+    ],
+    [
+      0.5,
+      " "
+    ],
+    [
+      0.5,
+      "r"
+    ],
+    [
+      0.130352,
+      "u"
+    ],
+    [
+      0.145959,
+      "n"
+    ],
+    [
+      0.190016,
+      " "
+    ],
+    [
+      0.349979,
+      "-v /var/run/docke"
+    ],
+    [
+      0.000292,
+      "r"
+    ],
+    [
+      9.4e-05,
+      "."
+    ],
+    [
+      0.000118,
+      "s"
+    ],
+    [
+      0.000157,
+      "o"
+    ],
+    [
+      0.00012,
+      "c"
+    ],
+    [
+      0.000101,
+      "k"
+    ],
+    [
+      0.000129,
+      ": \r"
+    ],
+    [
+      8.5e-05,
+      "/"
+    ],
+    [
+      0.000232,
+      "v"
+    ],
+    [
+      0.00014,
+      "a"
+    ],
+    [
+      0.000123,
+      "r/"
+    ],
+    [
+      6.4e-05,
+      "r"
+    ],
+    [
+      0.000126,
+      "un/"
+    ],
+    [
+      8.7e-05,
+      "doc"
+    ],
+    [
+      9.1e-05,
+      "ke"
+    ],
+    [
+      7.9e-05,
+      "r."
+    ],
+    [
+      0.000148,
+      "so"
+    ],
+    [
+      6.3e-05,
+      "ck"
+    ],
+    [
+      0.000107,
+      " "
+    ],
+    [
+      0.000133,
+      " -"
+    ],
+    [
+      4.4e-05,
+      "v"
+    ],
+    [
+      9.1e-05,
+      " "
+    ],
+    [
+      8.9e-05,
+      "$"
+    ],
+    [
+      7.3e-05,
+      "P"
+    ],
+    [
+      0.000142,
+      "W"
+    ],
+    [
+      7.7e-05,
+      "D"
+    ],
+    [
+      0.000119,
+      ":"
+    ],
+    [
+      6.2e-05,
+      "/"
+    ],
+    [
+      9.4e-05,
+      "o"
+    ],
+    [
+      4.9e-05,
+      "u"
+    ],
+    [
+      0.000105,
+      "t"
+    ],
+    [
+      7.8e-05,
+      "pu"
+    ],
+    [
+      0.000102,
+      "t"
+    ],
+    [
+      5.3e-05,
+      " "
+    ],
+    [
+      7.5e-05,
+      "-"
+    ],
+    [
+      6.7e-05,
+      "-"
+    ],
+    [
+      9.1e-05,
+      "p"
+    ],
+    [
+      8.5e-05,
+      "r"
+    ],
+    [
+      8.1e-05,
+      "i"
+    ],
+    [
+      7e-05,
+      "v"
+    ],
+    [
+      7.1e-05,
+      "i"
+    ],
+    [
+      5.5e-05,
+      "l"
+    ],
+    [
+      0.000569,
+      "eged -"
+    ],
+    [
+      4.1e-05,
+      "t"
+    ],
+    [
+      0.000144,
+      " "
+    ],
+    [
+      6.9e-05,
+      "-"
+    ],
+    [
+      8e-05,
+      "-"
+    ],
+    [
+      8e-05,
+      "r"
+    ],
+    [
+      0.000135,
+      "m"
+    ],
+    [
+      0.5,
+      " "
+    ],
+    [
+      0.5,
+      "singularityware/docker2singula \rrity"
+    ],
+    [
+      0.5,
+      " "
+    ],
+    [
+      0.5,
+      "e"
+    ],
+    [
+      0.5,
+      "x"
+    ],
+    [
+      0.368662,
+      "p"
+    ],
+    [
+      0.188839,
+      "a"
+    ],
+    [
+      0.204838,
+      "n"
+    ],
+    [
+      0.200768,
+      "s"
+    ],
+    [
+      0.235428,
+      "i"
+    ],
+    [
+      0.075518,
+      "o"
+    ],
+    [
+      0.236106,
+      "n"
+    ],
+    [
+      0.5,
+      "h"
+    ],
+    [
+      0.226907,
+      "u"
+    ],
+    [
+      0.149943,
+      "n"
+    ],
+    [
+      0.363193,
+      "t"
+    ],
+    [
+      0.137139,
+      "e"
+    ],
+    [
+      0.101475,
+      "r"
+    ],
+    [
+      0.5,
+      ":"
+    ],
+    [
+      0.5,
+      "2"
+    ],
+    [
+      0.5,
+      "."
+    ],
+    [
+      0.5,
+      "5"
+    ],
+    [
+      0.19367,
+      "."
+    ],
+    [
+      0.5,
+      "1"
+    ],
+    [
+      0.5,
+      "-"
+    ],
+    [
+      0.365507,
+      "d"
+    ],
+    [
+      0.118937,
+      "e"
+    ],
+    [
+      0.234743,
+      "v"
+    ],
+    [
+      0.5,
+      "\r\r\n"
+    ],
+    [
+      0.005791,
+      "[sudo] password for maartenk: "
+    ],
+    [
+      0.5,
+      "\r\r\n"
+    ],
+    [
+      0.021195,
+      "Unable to find image 'singularityware/docker2singularity:latest' locally"
+    ],
+    [
+      0.000105,
+      "\r\r\n"
+    ],
+    [
+      0.5,
+      "latest: Pulling from singularityware/docker2singularity\r\r\n\u001b[0B"
+    ],
+    [
+      0.000543,
+      "\r\r\n\u001b[0A\u001b[2K\r627beaf3eaaf: Pulling fs layer \r\u001b[0B"
+    ],
+    [
+      0.000489,
+      "\r\r\n\u001b[0A\u001b[2K\r1ed492db3a66: Pulling fs layer \r\u001b[0B"
+    ],
+    [
+      0.000426,
+      "\r\r\n\u001b[0A\u001b[2K\r8168b7823bfe: Pulling fs layer \r\u001b[0B"
+    ],
+    [
+      0.000291,
+      "\r\r\n"
+    ],
+    [
+      0.000304,
+      "\u001b[0A"
+    ],
+    [
+      0.000236,
+      "\u001b[2K\r"
+    ],
+    [
+      0.000265,
+      "6c96a51d997f: "
+    ],
+    [
+      0.000347,
+      "Pulling fs layer \r"
+    ],
+    [
+      0.000296,
+      "\u001b[0B"
+    ],
+    [
+      0.000867,
+      "\r\r\n"
+    ],
+    [
+      0.000376,
+      "\u001b[0A"
+    ],
+    [
+      0.0005,
+      "\u001b[2K\r"
+    ],
+    [
+      0.000288,
+      "22e8e1df0837: "
+    ],
+    [
+      0.001712,
+      "Pulling fs layer \r"
+    ],
+    [
+      0.000401,
+      "\u001b[0B"
+    ],
+    [
+      0.000377,
+      "\r\r\n"
+    ],
+    [
+      0.000278,
+      "\u001b[0A"
+    ],
+    [
+      0.000443,
+      "\u001b[2K\r"
+    ],
+    [
+      0.002136,
+      "31ad4a41b5d1: "
+    ],
+    [
+      0.000371,
+      "Pulling fs layer \r"
+    ],
+    [
+      0.000375,
+      "\u001b[0B"
+    ],
+    [
+      0.00033,
+      "\r\r\n"
+    ],
+    [
+      0.000846,
+      "\u001b[0A"
+    ],
+    [
+      0.000429,
+      "\u001b[2K\r"
+    ],
+    [
+      0.000308,
+      "4a4d927ab503: "
+    ],
+    [
+      0.000385,
+      "Pulling fs layer \r"
+    ],
+    [
+      0.000276,
+      "\u001b[0B"
+    ],
+    [
+      0.000525,
+      "\r\r\n"
+    ],
+    [
+      0.000294,
+      "\u001b[0A"
+    ],
+    [
+      0.000345,
+      "\u001b[2K\r"
+    ],
+    [
+      0.000231,
+      "ce1b59d128f5: "
+    ],
+    [
+      0.000582,
+      "Pulling fs layer \r"
+    ],
+    [
+      0.000433,
+      "\u001b[0B"
+    ],
+    [
+      0.000396,
+      "\r\r\n"
+    ],
+    [
+      0.000278,
+      "\u001b[0A"
+    ],
+    [
+      0.000324,
+      "\u001b[2K\r"
+    ],
+    [
+      0.000321,
+      "4b31bdc05309: "
+    ],
+    [
+      0.00031,
+      "Pulling fs layer \r"
+    ],
+    [
+      0.000303,
+      "\u001b[0B"
+    ],
+    [
+      0.000322,
+      "\u001b[6A"
+    ],
+    [
+      0.000242,
+      "\u001b[2K\r"
+    ],
+    [
+      0.000282,
+      "6c96a51d997f: "
+    ],
+    [
+      0.000315,
+      "Waiting \r"
+    ],
+    [
+      0.000223,
+      "\u001b[6B"
+    ],
+    [
+      0.000357,
+      "\u001b[5A"
+    ],
+    [
+      0.000295,
+      "\u001b[2K\r"
+    ],
+    [
+      0.001155,
+      "22e8e1df0837: "
+    ],
+    [
+      0.000296,
+      "Waiting \r"
+    ],
+    [
+      8.2e-05,
+      "\u001b[5B"
+    ],
+    [
+      0.00012,
+      "\u001b[4A"
+    ],
+    [
+      5.7e-05,
+      "\u001b[2K\r"
+    ],
+    [
+      3.4e-05,
+      "31ad4a41b5d1: "
+    ],
+    [
+      2.9e-05,
+      "Waiting \r"
+    ],
+    [
+      0.000102,
+      "\u001b[4B"
+    ],
+    [
+      9.2e-05,
+      "\u001b[3A"
+    ],
+    [
+      3.8e-05,
+      "\u001b[2K\r"
+    ],
+    [
+      0.000671,
+      "4a4d927ab503: "
+    ],
+    [
+      4.1e-05,
+      "Waiting \r"
+    ],
+    [
+      0.000111,
+      "\u001b[3B"
+    ],
+    [
+      5.4e-05,
+      "\u001b[2A"
+    ],
+    [
+      5e-05,
+      "\u001b[2K\r"
+    ],
+    [
+      9.3e-05,
+      "ce1b59d128f5: "
+    ],
+    [
+      4.5e-05,
+      "Waiting \r"
+    ],
+    [
+      6.9e-05,
+      "\u001b[2B"
+    ],
+    [
+      9.4e-05,
+      "\u001b[1A"
+    ],
+    [
+      8.8e-05,
+      "\u001b[2K\r"
+    ],
+    [
+      8.7e-05,
+      "4b31bdc05309: "
+    ],
+    [
+      4.8e-05,
+      "Waiting \r"
+    ],
+    [
+      3.3e-05,
+      "\u001b[1B"
+    ],
+    [
+      0.5,
+      "\u001b[8A\u001b[2K\r1ed492db3a66: Downloading 32.77 kB/2.168 MB\r\u001b[8B"
+    ],
+    [
+      0.01083,
+      "\u001b[9A\u001b[2K\r627beaf3eaaf: Downloading 32.31 kB/1.905 MB\r\u001b[9B"
+    ],
+    [
+      0.007585,
+      "\u001b[8A\u001b[2K\r1ed492db3a66: Downloading 64.64 kB/2.168 MB\r\u001b[8B"
+    ],
+    [
+      0.008234,
+      "\u001b[8A\u001b[2K\r1ed492db3a66: Downloading 89.71 kB/2.168 MB\r\u001b[8B"
+    ],
+    [
+      0.00944,
+      "\u001b[9A\u001b[2K\r627beaf3eaaf: Downloading 65.08 kB/1.905 MB\r\u001b[9B"
+    ],
+    [
+      0.011801,
+      "\u001b[9A\u001b[2K\r627beaf3eaaf: Downloading 97.85 kB/1.905 MB\r\u001b[9B"
+    ],
+    [
+      0.008021,
+      "\u001b[8A\u001b[2K\r1ed492db3a66: Downloading 122.5 kB/2.168 MB\r\u001b[8B"
+    ],
+    [
+      0.006891,
+      "\u001b[8A\u001b[2K\r1ed492db3a66: Downloading 146.6 kB/2.168 MB\r\u001b[8B"
+    ],
+    [
+      0.004657,
+      "\u001b[8A\u001b[2K\r1ed492db3a66: Downloading 168.3 kB/2.168 MB\r\u001b[8B"
+    ],
+    [
+      0.004492,
+      "\u001b[8A\u001b[2K\r1ed492db3a66: Downloading 195.7 kB/2.168 MB\r\u001b[8B"
+    ],
+    [
+      0.008824,
+      "\u001b[9A\u001b[2K\r627beaf3eaaf: Downloading 130.6 kB/1.905 MB\r\u001b[9B"
+    ],
+    [
+      0.005626,
+      "\u001b[8A\u001b[2K\r1ed492db3a66: Downloading 228.5 kB/2.168 MB\r\u001b[8B"
+    ],
+    [
+      0.015634,
+      "\u001b[9A\u001b[2K\r627beaf3eaaf: Downloading 163.4 kB/1.905 MB\r\u001b[9B"
+    ],
+    [
+      0.010673,
+      "\u001b[9A\u001b[2K\r627beaf3eaaf: Downloading 196.2 kB/1.905 MB\r\u001b[9B"
+    ],
+    [
+      0.007358,
+      "\u001b[8A\u001b[2K\r1ed492db3a66: Downloading 255.1 kB/2.168 MB\r\u001b[8B"
+    ],
+    [
+      0.005218,
+      "\u001b[8A\u001b[2K\r1ed492db3a66: Downloading 277.6 kB/2.168 MB\r\u001b[8B"
+    ],
+    [
+      0.00497,
+      "\u001b[8A\u001b[2K\r1ed492db3a66: Downloading 310.4 kB/2.168 MB\r\u001b[8B"
+    ],
+    [
+      0.013457,
+      "\u001b[8A\u001b[2K\r1ed492db3a66: Downloading 343.2 kB/2.168 MB\r\u001b[8B"
+    ],
+    [
+      0.003566,
+      "\u001b[9A\u001b[2K\r627beaf3eaaf: Downloading 228.9 kB/1.905 MB\r\u001b[9B"
+    ],
+    [
+      0.006254,
+      "\u001b[8A\u001b[2K\r1ed492db3a66: Downloading 375.9 kB/2.168 MB\r\u001b[8B"
+    ],
+    [
+      0.012143,
+      "\u001b[9A\u001b[2K\r627beaf3eaaf: Downloading 261.7 kB/1.905 MB\r\u001b[9B"
+    ],
+    [
+      0.014148,
+      "\u001b[8A\u001b[2K\r1ed492db3a66: Downloading 408.7 kB/2.168 MB\r\u001b[8B"
+    ],
+    [
+      0.003567,
+      "\u001b[9A\u001b[2K\r627beaf3eaaf: Downloading 294.5 kB/1.905 MB\r\u001b[9B"
+    ],
+    [
+      0.010285,
+      "\u001b[8A\u001b[2K\r1ed492db3a66: Downloading 441.5 kB/2.168 MB\r\u001b[8B"
+    ],
+    [
+      0.004102,
+      "\u001b[7A\u001b[2K\r8168b7823bfe: Downloading 277.6 kB/27.73 MB\r\u001b[7B"
+    ],
+    [
+      0.008176,
+      "\u001b[8A\u001b[2K\r1ed492db3a66: Downloading 472.3 kB/2.168 MB\r\u001b[8B"
+    ],
+    [
+      0.007584,
+      "\u001b[9A\u001b[2K\r627beaf3eaaf: Downloading 327.2 kB/1.905 MB\r\u001b[9B"
+    ],
+    [
+      0.005499,
+      "\u001b[8A\u001b[2K\r1ed492db3a66: Downloading 505.1 kB/2.168 MB\r\u001b[8B"
+    ],
+    [
+      0.011316,
+      "\u001b[8A\u001b[2K\r1ed492db3a66: Downloading 539.8 kB/2.168 MB\r\u001b[8B"
+    ],
+    [
+      0.006756,
+      "\u001b[9A\u001b[2K\r627beaf3eaaf: Downloading   360 kB/1.905 MB\r\u001b[9B"
+    ],
+    [
+      0.008961,
+      "\u001b[8A\u001b[2K\r1ed492db3a66: Downloading 572.5 kB/2.168 MB\r\u001b[8B"
+    ],
+    [
+      0.011473,
+      "\u001b[9A\u001b[2K\r627beaf3eaaf: Downloading 392.8 kB/1.905 MB\r\u001b[9B"
+    ],
+    [
+      0.005578,
+      "\u001b[8A\u001b[2K\r1ed492db3a66: Downloading 605.3 kB/2.168 MB\r\u001b[8B"
+    ],
+    [
+      0.012892,
+      "\u001b[8A\u001b[2K\r1ed492db3a66: Downloading 638.1 kB/2.168 MB\r\u001b[8B"
+    ],
+    [
+      0.001497,
+      "\u001b[9A\u001b[2K\r627beaf3eaaf: Downloading 425.5 kB/1.905 MB\r\u001b[9B"
+    ],
+    [
+      0.016671,
+      "\u001b[8A\u001b[2K\r1ed492db3a66: Downloading 670.8 kB/2.168 MB\r\u001b[8B"
+    ],
+    [
+      0.015949,
+      "\u001b[8A"
+    ],
+    [
+      0.001847,
+      "\u001b[2K\r"
+    ],
+    [
+      8.4e-05,
+      "1ed492db3a66: "
+    ],
+    [
+      7.1e-05,
+      "Downloading 703.6 kB/2.168 MB\r"
+    ],
+    [
+      9.1e-05,
+      "\u001b[8B"
+    ],
+    [
+      0.000136,
+      "\u001b[9A"
+    ],
+    [
+      6.9e-05,
+      "\u001b[2K\r"
+    ],
+    [
+      6.3e-05,
+      "627beaf3eaaf: "
+    ],
+    [
+      7.9e-05,
+      "Downloading 458.3 kB/1.905 MB\r"
+    ],
+    [
+      5.2e-05,
+      "\u001b[9B"
+    ],
+    [
+      0.004534,
+      "\u001b[8A\u001b[2K\r1ed492db3a66: Downloading 736.4 kB/2.168 MB\r\u001b[8B"
+    ],
+    [
+      0.005762,
+      "\u001b[9A\u001b[2K\r627beaf3eaaf: Downloading 491.1 kB/1.905 MB\r\u001b[9B"
+    ],
+    [
+      0.011917,
+      "\u001b[8A\u001b[2K\r1ed492db3a66: Downloading 769.2 kB/2.168 MB\r\u001b[8B"
+    ],
+    [
+      0.0104,
+      "\u001b[9A\u001b[2K\r627beaf3eaaf: Downloading 523.8 kB/1.905 MB\r\u001b[9B"
+    ],
+    [
+      0.004185,
+      "\u001b[8A\u001b[2K\r1ed492db3a66: Downloading 801.9 kB/2.168 MB\r\u001b[8B"
+    ],
+    [
+      0.013246,
+      "\u001b[8A\u001b[2K\r1ed492db3a66: Downloading 834.7 kB/2.168 MB\r\u001b[8B"
+    ],
+    [
+      0.00637,
+      "\u001b[9A\u001b[2K\r627beaf3eaaf: Downloading 556.6 kB/1.905 MB\r\u001b[9B"
+    ],
+    [
+      0.007413,
+      "\u001b[8A\u001b[2K\r1ed492db3a66: Downloading 867.5 kB/2.168 MB\r\u001b[8B"
+    ],
+    [
+      0.017365,
+      "\u001b[8A\u001b[2K\r1ed492db3a66: Downloading 900.2 kB/2.168 MB\r\u001b[8B"
+    ],
+    [
+      0.001288,
+      "\u001b[9A\u001b[2K\r627beaf3eaaf: Downloading 589.4 kB/1.905 MB\r\u001b[9B"
+    ],
+    [
+      0.00159,
+      "\u001b[7A\u001b[2K\r8168b7823bfe: Downloading 556.2 kB/27.73 MB\r\u001b[7B"
+    ],
+    [
+      0.013603,
+      "\u001b[8A\u001b[2K\r1ed492db3a66: Downloading   933 kB/2.168 MB\r\u001b[8B"
+    ],
+    [
+      0.004242,
+      "\u001b[9A\u001b[2K\r627beaf3eaaf: Downloading 622.1 kB/1.905 MB\r\u001b[9B"
+    ],
+    [
+      0.009725,
+      "\u001b[8A\u001b[2K\r1ed492db3a66: Downloading 965.8 kB/2.168 MB\r\u001b[8B"
+    ],
+    [
+      0.012354,
+      "\u001b[9A\u001b[2K\r627beaf3eaaf: Downloading 654.9 kB/1.905 MB\r\u001b[9B"
+    ],
+    [
+      0.001548,
+      "\u001b[8A\u001b[2K\r1ed492db3a66: Downloading 998.5 kB/2.168 MB\r\u001b[8B"
+    ],
+    [
+      0.015684,
+      "\u001b[8A\u001b[2K\r1ed492db3a66: Downloading 1.031 MB/2.168 MB\r\u001b[8B"
+    ],
+    [
+      0.012322,
+      "\u001b[8A\u001b[2K\r1ed492db3a66: Downloading 1.064 MB/2.168 MB\r\u001b[8B"
+    ],
+    [
+      0.000976,
+      "\u001b[9A\u001b[2K\r627beaf3eaaf: Downloading 687.7 kB/1.905 MB\r\u001b[9B"
+    ],
+    [
+      0.028125,
+      "\u001b[8A"
+    ],
+    [
+      9.2e-05,
+      "\u001b[2K\r"
+    ],
+    [
+      8.2e-05,
+      "1ed492db3a66: "
+    ],
+    [
+      7.7e-05,
+      "Downloading 1.097 MB/2.168 MB\r"
+    ],
+    [
+      6.1e-05,
+      "\u001b[8B"
+    ],
+    [
+      0.004002,
+      "\u001b[9A\u001b[2K\r627beaf3eaaf: Downloading 720.4 kB/1.905 MB\r\u001b[9B"
+    ],
+    [
+      0.001201,
+      "\u001b[8A\u001b[2K\r1ed492db3a66: Downloading  1.13 MB/2.168 MB\r\u001b[8B"
+    ],
+    [
+      0.006829,
+      "\u001b[9A\u001b[2K\r627beaf3eaaf: Downloading 753.2 kB/1.905 MB\r\u001b[9B"
+    ],
+    [
+      0.003831,
+      "\u001b[8A\u001b[2K\r1ed492db3a66: Downloading 1.162 MB/2.168 MB\r\u001b[8B"
+    ],
+    [
+      0.024242,
+      "\u001b[8A\u001b[2K\r1ed492db3a66: Downloading 1.195 MB/2.168 MB\r\u001b[8B"
+    ],
+    [
+      0.00102,
+      "\u001b[9A\u001b[2K\r627beaf3eaaf: Downloading   786 kB/1.905 MB\r\u001b[9B"
+    ],
+    [
+      0.024979,
+      "\u001b[8A\u001b[2K\r1ed492db3a66: Downloading 1.228 MB/2.168 MB\r\u001b[8B"
+    ],
+    [
+      0.005304,
+      "\u001b[8A\u001b[2K\r1ed492db3a66: Downloading 1.261 MB/2.168 MB\r\u001b[8B"
+    ],
+    [
+      0.001772,
+      "\u001b[9A\u001b[2K\r627beaf3eaaf: Downloading 818.7 kB/1.905 MB\r\u001b[9B"
+    ],
+    [
+      0.002223,
+      "\u001b[8A\u001b[2K\r1ed492db3a66: Downloading 1.293 MB/2.168 MB\r\u001b[8B"
+    ],
+    [
+      0.004947,
+      "\u001b[9A\u001b[2K\r627beaf3eaaf: Downloading 851.5 kB/1.905 MB\r\u001b[9B"
+    ],
+    [
+      0.008138,
+      "\u001b[8A\u001b[2K\r1ed492db3a66: Downloading 1.326 MB/2.168 MB\r\u001b[8B"
+    ],
+    [
+      0.001701,
+      "\u001b[7A\u001b[2K\r8168b7823bfe: Downloading 834.7 kB/27.73 MB\r\u001b[7B"
+    ],
+    [
+      0.011888,
+      "\u001b[9A\u001b[2K\r627beaf3eaaf: Downloading 884.3 kB/1.905 MB\r\u001b[9B"
+    ],
+    [
+      0.001869,
+      "\u001b[8A\u001b[2K\r1ed492db3a66: Downloading 1.359 MB/2.168 MB\r\u001b[8B"
+    ],
+    [
+      0.01417,
+      "\u001b[8A\u001b[2K\r1ed492db3a66: Downloading 1.392 MB/2.168 MB\r\u001b[8B"
+    ],
+    [
+      0.009251,
+      "\u001b[9A\u001b[2K\r627beaf3eaaf: Downloading   917 kB/1.905 MB\r\u001b[9B"
+    ],
+    [
+      0.004048,
+      "\u001b[8A\u001b[2K\r1ed492db3a66: Downloading 1.425 MB/2.168 MB\r\u001b[8B"
+    ],
+    [
+      0.018243,
+      "\u001b[8A\u001b[2K\r1ed492db3a66: Downloading 1.457 MB/2.168 MB\r\u001b[8B"
+    ],
+    [
+      0.001999,
+      "\u001b[9A\u001b[2K\r627beaf3eaaf: Downloading 949.8 kB/1.905 MB\r\u001b[9B"
+    ],
+    [
+      0.010467,
+      "\u001b[8A\u001b[2K\r1ed492db3a66: Downloading  1.49 MB/2.168 MB\r\u001b[8B"
+    ],
+    [
+      0.014566,
+      "\u001b[8A\u001b[2K\r1ed492db3a66: Downloading 1.523 MB/2.168 MB\r\u001b[8B"
+    ],
+    [
+      0.001438,
+      "\u001b[9A"
+    ],
+    [
+      0.000512,
+      "\u001b[2K\r"
+    ],
+    [
+      4.4e-05,
+      "627beaf3eaaf: Downloading 982.6 kB/1.905 MB\r"
+    ],
+    [
+      6.8e-05,
+      "\u001b[9B"
+    ],
+    [
+      0.007698,
+      "\u001b[8A\u001b[2K\r1ed492db3a66: Downloading 1.556 MB/2.168 MB\r\u001b[8B"
+    ],
+    [
+      0.014215,
+      "\u001b[8A\u001b[2K\r1ed492db3a66: Downloading 1.588 MB/2.168 MB\r\u001b[8B"
+    ],
+    [
+      0.005589,
+      "\u001b[9A\u001b[2K\r627beaf3eaaf: Downloading 1.015 MB/1.905 MB\r\u001b[9B"
+    ],
+    [
+      0.007164,
+      "\u001b[8A\u001b[2K\r1ed492db3a66: Downloading 1.621 MB/2.168 MB\r\u001b[8B"
+    ],
+    [
+      0.016046,
+      "\u001b[8A\u001b[2K\r1ed492db3a66: Downloading 1.654 MB/2.168 MB\r\u001b[8B"
+    ],
+    [
+      0.0031,
+      "\u001b[9A\u001b[2K\r627beaf3eaaf: Downloading 1.048 MB/1.905 MB\r\u001b[9B"
+    ],
+    [
+      0.008856,
+      "\u001b[8A\u001b[2K\r1ed492db3a66: Downloading 1.687 MB/2.168 MB\r\u001b[8B"
+    ],
+    [
+      0.012534,
+      "\u001b[9A\u001b[2K\r627beaf3eaaf: Downloading 1.081 MB/1.905 MB\r\u001b[9B"
+    ],
+    [
+      0.003635,
+      "\u001b[8A\u001b[2K\r1ed492db3a66: Downloading 1.719 MB/2.168 MB\r\u001b[8B"
+    ],
+    [
+      0.015166,
+      "\u001b[9A\u001b[2K\r627beaf3eaaf: Downloading 1.114 MB/1.905 MB\r\u001b[9B"
+    ],
+    [
+      0.001533,
+      "\u001b[8A\u001b[2K\r1ed492db3a66: Downloading 1.752 MB/2.168 MB\r\u001b[8B"
+    ],
+    [
+      0.010369,
+      "\u001b[8A\u001b[2K\r1ed492db3a66: Downloading 1.785 MB/2.168 MB\r\u001b[8B"
+    ],
+    [
+      0.000979,
+      "\u001b[7A\u001b[2K\r8168b7823bfe: Downloading 1.113 MB/27.73 MB\r\u001b[7B"
+    ],
+    [
+      0.014779,
+      "\u001b[9A"
+    ],
+    [
+      0.000111,
+      "\u001b[2K\r"
+    ],
+    [
+      9.2e-05,
+      "627beaf3eaaf: "
+    ],
+    [
+      0.000111,
+      "Downloading 1.146 MB/1.905 MB\r"
+    ],
+    [
+      4.9e-05,
+      "\u001b[9B"
+    ],
+    [
+      0.004653,
+      "\u001b[8A\u001b[2K\r1ed492db3a66: Downloading 1.818 MB/2.168 MB\r\u001b[8B"
+    ],
+    [
+      0.006467,
+      "\u001b[8A\u001b[2K\r1ed492db3a66: Downloading  1.85 MB/2.168 MB\r\u001b[8B"
+    ],
+    [
+      0.009319,
+      "\u001b[9A\u001b[2K\r627beaf3eaaf: Downloading 1.179 MB/1.905 MB\r\u001b[9B"
+    ],
+    [
+      0.001665,
+      "\u001b[8A\u001b[2K\r1ed492db3a66: Downloading 1.883 MB/2.168 MB\r\u001b[8B"
+    ],
+    [
+      0.014779,
+      "\u001b[8A\u001b[2K\r1ed492db3a66: Downloading 1.916 MB/2.168 MB\r\u001b[8B"
+    ],
+    [
+      0.013224,
+      "\u001b[9A\u001b[2K\r627beaf3eaaf: Downloading 1.212 MB/1.905 MB\r\u001b[9B"
+    ],
+    [
+      0.005193,
+      "\u001b[8A\u001b[2K\r1ed492db3a66: Downloading 1.949 MB/2.168 MB\r\u001b[8B"
+    ],
+    [
+      0.014715,
+      "\u001b[8A\u001b[2K\r1ed492db3a66: Downloading 1.982 MB/2.168 MB\r\u001b[8B"
+    ],
+    [
+      0.001145,
+      "\u001b[9A\u001b[2K\r627beaf3eaaf: Downloading 1.245 MB/1.905 MB\r\u001b[9B"
+    ],
+    [
+      0.021026,
+      "\u001b[8A\u001b[2K\r1ed492db3a66: Downloading 2.014 MB/2.168 MB\r\u001b[8B"
+    ],
+    [
+      0.002694,
+      "\u001b[9A\u001b[2K\r627beaf3eaaf: Downloading 1.277 MB/1.905 MB\r\u001b[9B"
+    ],
+    [
+      0.001579,
+      "\u001b[8A\u001b[2K\r1ed492db3a66: Downloading 2.047 MB/2.168 MB\r\u001b[8B"
+    ],
+    [
+      0.014887,
+      "\u001b[9A\u001b[2K\r627beaf3eaaf: Downloading  1.31 MB/1.905 MB\r\u001b[9B"
+    ],
+    [
+      0.001514,
+      "\u001b[8A\u001b[2K\r1ed492db3a66: Downloading  2.08 MB/2.168 MB\r\u001b[8B"
+    ],
+    [
+      0.013573,
+      "\u001b[8A\u001b[2K\r1ed492db3a66: Downloading 2.113 MB/2.168 MB\r\u001b[8B"
+    ],
+    [
+      0.016987,
+      "\u001b[8A\u001b[2K\r1ed492db3a66: Downloading 2.145 MB/2.168 MB\r\u001b[8B"
+    ],
+    [
+      0.001804,
+      "\u001b[9A\u001b[2K\r627beaf3eaaf: Downloading 1.343 MB/1.905 MB\r\u001b[9B"
+    ],
+    [
+      0.004834,
+      "\u001b[8A\u001b[2K\r1ed492db3a66: Downloading 2.168 MB/2.168 MB\r\u001b[8B"
+    ],
+    [
+      0.002609,
+      "\u001b[8A\u001b[2K\r1ed492db3a66: Verifying Checksum \r\u001b[8B"
+    ],
+    [
+      0.000491,
+      "\u001b[8A\u001b[2K\r1ed492db3a66: Download complete \r\u001b[8B"
+    ],
+    [
+      0.009252,
+      "\u001b[9A\u001b[2K\r627beaf3eaaf: Downloading 1.376 MB/1.905 MB\r\u001b[9B"
+    ],
+    [
+      0.006898,
+      "\u001b[7A\u001b[2K\r8168b7823bfe: Downloading 1.392 MB/27.73 MB\r\u001b[7B"
+    ],
+    [
+      0.006207,
+      "\u001b[9A\u001b[2K\r627beaf3eaaf: Downloading 1.409 MB/1.905 MB\r\u001b[9B"
+    ],
+    [
+      0.009057,
+      "\u001b[9A\u001b[2K\r627beaf3eaaf: Downloading 1.441 MB/1.905 MB\r\u001b[9B"
+    ],
+    [
+      0.013428,
+      "\u001b[9A\u001b[2K\r627beaf3eaaf: Downloading 1.474 MB/1.905 MB\r\u001b[9B"
+    ],
+    [
+      0.010173,
+      "\u001b[9A\u001b[2K\r627beaf3eaaf: Downloading 1.507 MB/1.905 MB\r\u001b[9B"
+    ],
+    [
+      0.014969,
+      "\u001b[9A\u001b[2K\r627beaf3eaaf: Downloading  1.54 MB/1.905 MB\r\u001b[9B"
+    ],
+    [
+      0.011039,
+      "\u001b[9A\u001b[2K\r627beaf3eaaf: Downloading 1.572 MB/1.905 MB\r\u001b[9B"
+    ],
+    [
+      0.013237,
+      "\u001b[9A\u001b[2K\r627beaf3eaaf: Downloading 1.605 MB/1.905 MB\r\u001b[9B"
+    ],
+    [
+      0.012101,
+      "\u001b[9A\u001b[2K\r627beaf3eaaf: Downloading 1.638 MB/1.905 MB\r\u001b[9B"
+    ],
+    [
+      0.014123,
+      "\u001b[9A\u001b[2K\r627beaf3eaaf: Downloading 1.671 MB/1.905 MB\r\u001b[9B"
+    ],
+    [
+      0.007921,
+      "\u001b[7A\u001b[2K\r8168b7823bfe: Downloading  1.67 MB/27.73 MB\r\u001b[7B"
+    ],
+    [
+      0.010849,
+      "\u001b[9A\u001b[2K\r627beaf3eaaf: Downloading 1.703 MB/1.905 MB\r\u001b[9B"
+    ],
+    [
+      0.004957,
+      "\u001b[9A\u001b[2K\r627beaf3eaaf: Downloading 1.736 MB/1.905 MB\r\u001b[9B"
+    ],
+    [
+      0.013939,
+      "\u001b[9A\u001b[2K\r627beaf3eaaf: Downloading 1.769 MB/1.905 MB\r\u001b[9B"
+    ],
+    [
+      0.012004,
+      "\u001b[9A\u001b[2K\r627beaf3eaaf: Downloading 1.802 MB/1.905 MB\r\u001b[9B"
+    ],
+    [
+      0.010743,
+      "\u001b[9A\u001b[2K\r627beaf3eaaf: Downloading 1.835 MB/1.905 MB\r\u001b[9B"
+    ],
+    [
+      0.013468,
+      "\u001b[9A\u001b[2K\r627beaf3eaaf: Downloading 1.867 MB/1.905 MB\r\u001b[9B"
+    ],
+    [
+      0.013824,
+      "\u001b[9A\u001b[2K\r627beaf3eaaf: Downloading   1.9 MB/1.905 MB\r\u001b[9B"
+    ],
+    [
+      0.001236,
+      "\u001b[9A\u001b[2K\r627beaf3eaaf: Verifying Checksum \r\u001b[9B"
+    ],
+    [
+      0.000903,
+      "\u001b[9A\u001b[2K\r627beaf3eaaf: Download complete \r\u001b[9B"
+    ],
+    [
+      0.006795,
+      "\u001b[9A\u001b[2K\r627beaf3eaaf: Extracting 32.77 kB/1.905 MB\r\u001b[9B"
+    ],
+    [
+      0.007105,
+      "\u001b[7A\u001b[2K\r8168b7823bfe: Downloading 1.949 MB/27.73 MB\r\u001b[7B"
+    ],
+    [
+      0.012179,
+      "\u001b[9A\u001b[2K\r627beaf3eaaf: Extracting 65.54 kB/1.905 MB\r\u001b[9B"
+    ],
+    [
+      0.044532,
+      "\u001b[9A\u001b[2K\r627beaf3eaaf: Extracting 131.1 kB/1.905 MB\r\u001b[9B"
+    ],
+    [
+      0.004966,
+      "\u001b[9A\u001b[2K\r627beaf3eaaf: Extracting 196.6 kB/1.905 MB\r\u001b[9B"
+    ],
+    [
+      0.004303,
+      "\u001b[9A\u001b[2K\r627beaf3eaaf: Extracting 262.1 kB/1.905 MB\r\u001b[9B"
+    ],
+    [
+      0.010064,
+      "\u001b[9A\u001b[2K\r627beaf3eaaf: Extracting 327.7 kB/1.905 MB\r\u001b[9B"
+    ],
+    [
+      0.001388,
+      "\u001b[9A\u001b[2K\r627beaf3eaaf: Extracting 393.2 kB/1.905 MB\r\u001b[9B"
+    ],
+    [
+      0.00692,
+      "\u001b[9A\u001b[2K\r627beaf3eaaf: Extracting 458.8 kB/1.905 MB\r\u001b[9B"
+    ],
+    [
+      0.001862,
+      "\u001b[9A\u001b[2K\r627beaf3eaaf: Extracting 524.3 kB/1.905 MB\r\u001b[9B"
+    ],
+    [
+      0.023596,
+      "\u001b[9A\u001b[2K\r627beaf3eaaf: Extracting 557.1 kB/1.905 MB\r\u001b[9B"
+    ],
+    [
+      0.01599,
+      "\u001b[9A\u001b[2K\r627beaf3eaaf: Extracting 622.6 kB/1.905 MB\r\u001b[9B"
+    ],
+    [
+      0.008247,
+      "\u001b[9A\u001b[2K\r627beaf3eaaf: Extracting 688.1 kB/1.905 MB\r\u001b[9B"
+    ],
+    [
+      0.004774,
+      "\u001b[9A\u001b[2K\r627beaf3eaaf: Extracting 753.7 kB/1.905 MB\r\u001b[9B"
+    ],
+    [
+      0.004537,
+      "\u001b[9A\u001b[2K\r627beaf3eaaf: Extracting 819.2 kB/1.905 MB\r\u001b[9B"
+    ],
+    [
+      0.00565,
+      "\u001b[9A\u001b[2K\r627beaf3eaaf: Extracting 884.7 kB/1.905 MB\r\u001b[9B"
+    ],
+    [
+      0.008853,
+      "\u001b[9A\u001b[2K\r627beaf3eaaf: Extracting 950.3 kB/1.905 MB\r\u001b[9B"
+    ],
+    [
+      0.006298,
+      "\u001b[9A\u001b[2K\r627beaf3eaaf: Extracting 1.016 MB/1.905 MB\r\u001b[9B"
+    ],
+    [
+      0.005338,
+      "\u001b[9A\u001b[2K\r627beaf3eaaf: Extracting 1.081 MB/1.905 MB\r\u001b[9B"
+    ],
+    [
+      0.006219,
+      "\u001b[9A\u001b[2K\r627beaf3eaaf: Extracting 1.147 MB/1.905 MB\r\u001b[9B"
+    ],
+    [
+      0.009342,
+      "\u001b[9A\u001b[2K\r627beaf3eaaf: Extracting 1.212 MB/1.905 MB\r\u001b[9B"
+    ],
+    [
+      0.005588,
+      "\u001b[9A\u001b[2K\r627beaf3eaaf: Extracting 1.278 MB/1.905 MB\r\u001b[9B"
+    ],
+    [
+      0.006066,
+      "\u001b[9A\u001b[2K\r627beaf3eaaf: Extracting 1.343 MB/1.905 MB\r\u001b[9B"
+    ],
+    [
+      0.004319,
+      "\u001b[9A\u001b[2K\r627beaf3eaaf: Extracting 1.409 MB/1.905 MB\r\u001b[9B"
+    ],
+    [
+      0.007695,
+      "\u001b[9A\u001b[2K\r627beaf3eaaf: Extracting 1.475 MB/1.905 MB\r\u001b[9B"
+    ],
+    [
+      0.011269,
+      "\u001b[9A\u001b[2K\r627beaf3eaaf: Extracting  1.54 MB/1.905 MB\r\u001b[9B"
+    ],
+    [
+      0.002494,
+      "\u001b[7A\u001b[2K\r8168b7823bfe: Downloading 2.227 MB/27.73 MB\r\u001b[7B"
+    ],
+    [
+      0.00145,
+      "\u001b[9A\u001b[2K\r627beaf3eaaf: Extracting 1.573 MB/1.905 MB\r\u001b[9B"
+    ],
+    [
+      0.009635,
+      "\u001b[7A\u001b[2K\r8168b7823bfe: Downloading 2.506 MB/27.73 MB\r\u001b[7B"
+    ],
+    [
+      0.008136,
+      "\u001b[9A\u001b[2K\r627beaf3eaaf: Extracting 1.638 MB/1.905 MB\r\u001b[9B"
+    ],
+    [
+      0.008711,
+      "\u001b[9A\u001b[2K\r627beaf3eaaf: Extracting 1.704 MB/1.905 MB\r\u001b[9B"
+    ],
+    [
+      0.006788,
+      "\u001b[9A\u001b[2K\r627beaf3eaaf: Extracting 1.769 MB/1.905 MB\r\u001b[9B"
+    ],
+    [
+      0.021332,
+      "\u001b[9A\u001b[2K\r627beaf3eaaf: Extracting 1.835 MB/1.905 MB\r\u001b[9B"
+    ],
+    [
+      0.000964,
+      "\u001b[9A\u001b[2K\r627beaf3eaaf: Extracting 1.868 MB/1.905 MB\r\u001b[9B"
+    ],
+    [
+      0.002678,
+      "\u001b[7A\u001b[2K\r8168b7823bfe: Downloading 2.784 MB/27.73 MB\r\u001b[7B"
+    ],
+    [
+      0.033522,
+      "\u001b[9A\u001b[2K\r627beaf3eaaf: Extracting 1.901 MB/1.905 MB\r\u001b[9B"
+    ],
+    [
+      0.01087,
+      "\u001b[9A\u001b[2K\r627beaf3eaaf: Extracting 1.905 MB/1.905 MB\r\u001b[9B"
+    ],
+    [
+      0.001732,
+      "\u001b[7A\u001b[2K\r8168b7823bfe: Downloading 3.063 MB/27.73 MB\r\u001b[7B"
+    ],
+    [
+      0.024008,
+      "\u001b[9A\u001b[2K\r627beaf3eaaf: Pull complete \r\u001b[9B"
+    ],
+    [
+      0.009978,
+      "\u001b[7A\u001b[2K\r8168b7823bfe: Downloading 3.341 MB/27.73 MB\r\u001b[7B"
+    ],
+    [
+      0.010585,
+      "\u001b[8A\u001b[2K\r1ed492db3a66: Extracting 32.77 kB/2.168 MB\r\u001b[8B"
+    ],
+    [
+      0.054275,
+      "\u001b[7A\u001b[2K\r8168b7823bfe: Downloading  3.62 MB/27.73 MB\r\u001b[7B"
+    ],
+    [
+      0.065274,
+      "\u001b[7A\u001b[2K\r8168b7823bfe: Downloading 3.898 MB/27.73 MB\r\u001b[7B"
+    ],
+    [
+      0.016308,
+      "\u001b[8A\u001b[2K\r1ed492db3a66: Extracting  98.3 kB/2.168 MB\r\u001b[8B"
+    ],
+    [
+      0.020693,
+      "\u001b[8A\u001b[2K\r1ed492db3a66: Extracting 163.8 kB/2.168 MB\r\u001b[8B"
+    ],
+    [
+      0.006987,
+      "\u001b[8A\u001b[2K\r1ed492db3a66: Extracting 229.4 kB/2.168 MB\r\u001b[8B"
+    ],
+    [
+      0.009245,
+      "\u001b[8A\u001b[2K\r1ed492db3a66: Extracting 294.9 kB/2.168 MB\r\u001b[8B"
+    ],
+    [
+      0.007945,
+      "\u001b[8A\u001b[2K\r1ed492db3a66: Extracting 360.4 kB/2.168 MB\r\u001b[8B"
+    ],
+    [
+      0.007096,
+      "\u001b[8A\u001b[2K\r1ed492db3a66: Extracting   426 kB/2.168 MB\r\u001b[8B"
+    ],
+    [
+      0.005761,
+      "\u001b[8A\u001b[2K\r1ed492db3a66: Extracting 491.5 kB/2.168 MB\r\u001b[8B"
+    ],
+    [
+      0.006019,
+      "\u001b[8A\u001b[2K\r1ed492db3a66: Extracting 557.1 kB/2.168 MB\r\u001b[8B"
+    ],
+    [
+      0.008075,
+      "\u001b[8A\u001b[2K\r1ed492db3a66: Extracting 622.6 kB/2.168 MB\r\u001b[8B"
+    ],
+    [
+      0.00556,
+      "\u001b[7A\u001b[2K\r8168b7823bfe: Downloading 4.177 MB/27.73 MB\r\u001b[7B"
+    ],
+    [
+      0.000752,
+      "\u001b[8A\u001b[2K\r1ed492db3a66: Extracting 688.1 kB/2.168 MB\r\u001b[8B"
+    ],
+    [
+      0.010827,
+      "\u001b[7A\u001b[2K\r8168b7823bfe: Downloading 4.456 MB/27.73 MB\r\u001b[7B"
+    ],
+    [
+      0.005188,
+      "\u001b[8A\u001b[2K\r1ed492db3a66: Extracting 753.7 kB/2.168 MB\r\u001b[8B"
+    ],
+    [
+      0.009937,
+      "\u001b[8A\u001b[2K\r1ed492db3a66: Extracting 819.2 kB/2.168 MB\r\u001b[8B"
+    ],
+    [
+      0.003875,
+      "\u001b[8A\u001b[2K\r1ed492db3a66: Extracting 884.7 kB/2.168 MB\r\u001b[8B"
+    ],
+    [
+      0.001576,
+      "\u001b[8A\u001b[2K\r1ed492db3a66: Extracting 950.3 kB/2.168 MB\r\u001b[8B"
+    ],
+    [
+      0.002797,
+      "\u001b[8A\u001b[2K\r1ed492db3a66: Extracting 1.016 MB/2.168 MB\r\u001b[8B"
+    ],
+    [
+      0.008578,
+      "\u001b[8A\u001b[2K\r1ed492db3a66: Extracting 1.081 MB/2.168 MB\r\u001b[8B"
+    ],
+    [
+      0.009259,
+      "\u001b[8A\u001b[2K\r1ed492db3a66: Extracting 1.147 MB/2.168 MB\r\u001b[8B"
+    ],
+    [
+      0.006382,
+      "\u001b[8A\u001b[2K\r1ed492db3a66: Extracting 1.212 MB/2.168 MB\r\u001b[8B"
+    ],
+    [
+      0.006571,
+      "\u001b[8A\u001b[2K\r1ed492db3a66: Extracting 1.278 MB/2.168 MB\r\u001b[8B"
+    ],
+    [
+      0.008476,
+      "\u001b[8A\u001b[2K\r1ed492db3a66: Extracting 1.343 MB/2.168 MB\r\u001b[8B"
+    ],
+    [
+      0.00247,
+      "\u001b[8A\u001b[2K\r1ed492db3a66: Extracting 1.409 MB/2.168 MB\r\u001b[8B"
+    ],
+    [
+      0.008151,
+      "\u001b[8A\u001b[2K\r1ed492db3a66: Extracting 1.475 MB/2.168 MB\r\u001b[8B"
+    ],
+    [
+      0.007073,
+      "\u001b[8A\u001b[2K\r1ed492db3a66: Extracting  1.54 MB/2.168 MB\r\u001b[8B"
+    ],
+    [
+      0.007699,
+      "\u001b[8A\u001b[2K\r1ed492db3a66: Extracting 1.606 MB/2.168 MB\r\u001b[8B"
+    ],
+    [
+      0.010283,
+      "\u001b[8A\u001b[2K\r1ed492db3a66: Extracting 1.671 MB/2.168 MB\r\u001b[8B"
+    ],
+    [
+      0.009407,
+      "\u001b[8A\u001b[2K\r1ed492db3a66: Extracting 1.737 MB/2.168 MB\r\u001b[8B"
+    ],
+    [
+      0.007582,
+      "\u001b[8A\u001b[2K\r1ed492db3a66: Extracting 1.802 MB/2.168 MB\r\u001b[8B"
+    ],
+    [
+      0.004222,
+      "\u001b[8A\u001b[2K\r1ed492db3a66: Extracting 1.868 MB/2.168 MB\r\u001b[8B"
+    ],
+    [
+      0.00768,
+      "\u001b[7A\u001b[2K\r8168b7823bfe: Downloading 4.734 MB/27.73 MB\r\u001b[7B"
+    ],
+    [
+      0.000614,
+      "\u001b[8A\u001b[2K\r1ed492db3a66: Extracting 1.933 MB/2.168 MB\r\u001b[8B"
+    ],
+    [
+      0.011089,
+      "\u001b[7A\u001b[2K\r8168b7823bfe: Downloading 5.013 MB/27.73 MB\r\u001b[7B"
+    ],
+    [
+      0.018829,
+      "\u001b[7A\u001b[2K\r8168b7823bfe: Downloading 5.291 MB/27.73 MB\r\u001b[7B"
+    ],
+    [
+      0.000611,
+      "\u001b[8A"
+    ],
+    [
+      8.1e-05,
+      "\u001b[2K\r"
+    ],
+    [
+      0.000117,
+      "1ed492db3a66: "
+    ],
+    [
+      6.9e-05,
+      "Extracting 1.999 MB/2.168 MB\r"
+    ],
+    [
+      3.5e-05,
+      "\u001b[8B"
+    ],
+    [
+      0.01931,
+      "\u001b[8A\u001b[2K\r1ed492db3a66: Extracting 2.064 MB/2.168 MB\r\u001b[8B"
+    ],
+    [
+      0.021305,
+      "\u001b[8A\u001b[2K\r1ed492db3a66: Extracting 2.097 MB/2.168 MB\r\u001b[8B"
+    ],
+    [
+      0.004487,
+      "\u001b[7A\u001b[2K\r8168b7823bfe: Downloading  5.57 MB/27.73 MB\r\u001b[7B"
+    ],
+    [
+      0.044934,
+      "\u001b[8A\u001b[2K\r1ed492db3a66: Extracting 2.163 MB/2.168 MB\r\u001b[8B"
+    ],
+    [
+      0.005052,
+      "\u001b[8A\u001b[2K\r1ed492db3a66: Extracting 2.168 MB/2.168 MB\r\u001b[8B"
+    ],
+    [
+      0.005199,
+      "\u001b[7A\u001b[2K\r8168b7823bfe: Downloading 5.848 MB/27.73 MB\r\u001b[7B"
+    ],
+    [
+      0.03761,
+      "\u001b[8A\u001b[2K\r1ed492db3a66: Pull complete \r\u001b[8B"
+    ],
+    [
+      0.016248,
+      "\u001b[7A\u001b[2K\r8168b7823bfe: Downloading 6.127 MB/27.73 MB\r\u001b[7B"
+    ],
+    [
+      0.050841,
+      "\u001b[7A\u001b[2K\r8168b7823bfe: Downloading 6.405 MB/27.73 MB\r\u001b[7B"
+    ],
+    [
+      0.049775,
+      "\u001b[7A\u001b[2K\r8168b7823bfe: Downloading 6.684 MB/27.73 MB\r\u001b[7B"
+    ],
+    [
+      0.050549,
+      "\u001b[7A\u001b[2K\r8168b7823bfe: Downloading 6.962 MB/27.73 MB\r\u001b[7B"
+    ],
+    [
+      0.022325,
+      "\u001b[6A\u001b[2K\r6c96a51d997f: Downloading    487 B/487 B\r\u001b[6B"
+    ],
+    [
+      0.002887,
+      "\u001b[6A\u001b[2K\r6c96a51d997f: Verifying Checksum \r\u001b[6B"
+    ],
+    [
+      0.000873,
+      "\u001b[6A\u001b[2K\r6c96a51d997f: Download complete \r\u001b[6B"
+    ],
+    [
+      0.030408,
+      "\u001b[7A\u001b[2K\r8168b7823bfe: Downloading 7.241 MB/27.73 MB\r\u001b[7B"
+    ],
+    [
+      0.054165,
+      "\u001b[7A\u001b[2K\r8168b7823bfe: Downloading 7.519 MB/27.73 MB\r\u001b[7B"
+    ],
+    [
+      0.050095,
+      "\u001b[7A\u001b[2K\r8168b7823bfe: Downloading 7.798 MB/27.73 MB\r\u001b[7B"
+    ],
+    [
+      0.053685,
+      "\u001b[7A\u001b[2K\r8168b7823bfe: Downloading 8.076 MB/27.73 MB\r\u001b[7B"
+    ],
+    [
+      0.050109,
+      "\u001b[7A\u001b[2K\r8168b7823bfe: Downloading 8.355 MB/27.73 MB\r\u001b[7B"
+    ],
+    [
+      0.050193,
+      "\u001b[7A\u001b[2K\r8168b7823bfe: Downloading 8.633 MB/27.73 MB\r\u001b[7B"
+    ],
+    [
+      0.048672,
+      "\u001b[7A\u001b[2K\r8168b7823bfe: Downloading 8.912 MB/27.73 MB\r\u001b[7B"
+    ],
+    [
+      0.04792,
+      "\u001b[5A\u001b[2K\r22e8e1df0837: Downloading 16.38 kB/1.377 MB\r\u001b[5B"
+    ],
+    [
+      0.012306,
+      "\u001b[7A\u001b[2K\r8168b7823bfe: Downloading 9.191 MB/27.73 MB\r\u001b[7B"
+    ],
+    [
+      0.002142,
+      "\u001b[5A\u001b[2K\r22e8e1df0837: Downloading 36.66 kB/1.377 MB\r\u001b[5B"
+    ],
+    [
+      0.019307,
+      "\u001b[5A\u001b[2K\r22e8e1df0837: Downloading 53.04 kB/1.377 MB\r\u001b[5B"
+    ],
+    [
+      0.038407,
+      "\u001b[5A\u001b[2K\r22e8e1df0837: Downloading 81.02 kB/1.377 MB\r\u001b[5B"
+    ],
+    [
+      0.001581,
+      "\u001b[7A\u001b[2K\r8168b7823bfe: Downloading 9.469 MB/27.73 MB\r\u001b[7B"
+    ],
+    [
+      0.028821,
+      "\u001b[5A\u001b[2K\r22e8e1df0837: Downloading 102.7 kB/1.377 MB\r\u001b[5B"
+    ],
+    [
+      0.008399,
+      "\u001b[5A\u001b[2K\r22e8e1df0837: Downloading 119.1 kB/1.377 MB\r\u001b[5B"
+    ],
+    [
+      0.036078,
+      "\u001b[5A\u001b[2K\r22e8e1df0837: Downloading 146.6 kB/1.377 MB\r\u001b[5B"
+    ],
+    [
+      0.001222,
+      "\u001b[7A\u001b[2K\r8168b7823bfe: Downloading 9.748 MB/27.73 MB\r\u001b[7B"
+    ],
+    [
+      0.012717,
+      "\u001b[5A\u001b[2K\r22e8e1df0837: Downloading 160.6 kB/1.377 MB\r\u001b[5B"
+    ],
+    [
+      0.020129,
+      "\u001b[5A\u001b[2K\r22e8e1df0837: Downloading   177 kB/1.377 MB\r\u001b[5B"
+    ],
+    [
+      0.017271,
+      "\u001b[5A\u001b[2K\r22e8e1df0837: Downloading 193.4 kB/1.377 MB\r\u001b[5B"
+    ],
+    [
+      0.013838,
+      "\u001b[7A\u001b[2K\r8168b7823bfe: Downloading 10.03 MB/27.73 MB\r\u001b[7B"
+    ],
+    [
+      0.00249,
+      "\u001b[5A\u001b[2K\r22e8e1df0837: Downloading 208.7 kB/1.377 MB\r\u001b[5B"
+    ],
+    [
+      0.017761,
+      "\u001b[5A\u001b[2K\r22e8e1df0837: Downloading 225.1 kB/1.377 MB\r\u001b[5B"
+    ],
+    [
+      0.018955,
+      "\u001b[5A\u001b[2K\r22e8e1df0837: Downloading 241.5 kB/1.377 MB\r\u001b[5B"
+    ],
+    [
+      0.016251,
+      "\u001b[5A\u001b[2K\r22e8e1df0837: Downloading 257.9 kB/1.377 MB\r\u001b[5B"
+    ],
+    [
+      0.016434,
+      "\u001b[7A\u001b[2K\r8168b7823bfe: Downloading  10.3 MB/27.73 MB\r\u001b[7B"
+    ],
+    [
+      0.003065,
+      "\u001b[5A\u001b[2K\r22e8e1df0837: Downloading 277.6 kB/1.377 MB\r\u001b[5B"
+    ],
+    [
+      0.014919,
+      "\u001b[5A\u001b[2K\r22e8e1df0837: Downloading   294 kB/1.377 MB\r\u001b[5B"
+    ],
+    [
+      0.017652,
+      "\u001b[5A\u001b[2K\r22e8e1df0837: Downloading 310.4 kB/1.377 MB\r\u001b[5B"
+    ],
+    [
+      0.009999,
+      "\u001b[5A\u001b[2K\r22e8e1df0837: Downloading 326.8 kB/1.377 MB\r\u001b[5B"
+    ],
+    [
+      0.013229,
+      "\u001b[5A\u001b[2K\r22e8e1df0837: Downloading 343.2 kB/1.377 MB\r\u001b[5B"
+    ],
+    [
+      0.006948,
+      "\u001b[7A\u001b[2K\r8168b7823bfe: Downloading 10.58 MB/27.73 MB\r\u001b[7B"
+    ],
+    [
+      0.011899,
+      "\u001b[5A\u001b[2K\r22e8e1df0837: Downloading 359.6 kB/1.377 MB\r\u001b[5B"
+    ],
+    [
+      0.016896,
+      "\u001b[5A\u001b[2K\r22e8e1df0837: Downloading 375.9 kB/1.377 MB\r\u001b[5B"
+    ],
+    [
+      0.009768,
+      "\u001b[5A\u001b[2K\r22e8e1df0837: Downloading 392.3 kB/1.377 MB\r\u001b[5B"
+    ],
+    [
+      0.013558,
+      "\u001b[5A\u001b[2K\r22e8e1df0837: Downloading 408.7 kB/1.377 MB\r\u001b[5B"
+    ],
+    [
+      0.011929,
+      "\u001b[7A\u001b[2K\r8168b7823bfe: Downloading 10.86 MB/27.73 MB\r\u001b[7B"
+    ],
+    [
+      0.00526,
+      "\u001b[5A\u001b[2K\r22e8e1df0837: Downloading 425.1 kB/1.377 MB\r\u001b[5B"
+    ],
+    [
+      0.023955,
+      "\u001b[5A\u001b[2K\r22e8e1df0837: Downloading 441.5 kB/1.377 MB\r\u001b[5B"
+    ],
+    [
+      0.00989,
+      "\u001b[5A\u001b[2K\r22e8e1df0837: Downloading 457.9 kB/1.377 MB\r\u001b[5B"
+    ],
+    [
+      0.013688,
+      "\u001b[5A\u001b[2K\r22e8e1df0837: Downloading 474.2 kB/1.377 MB\r\u001b[5B"
+    ],
+    [
+      0.011989,
+      "\u001b[7A\u001b[2K\r8168b7823bfe: Downloading 11.14 MB/27.73 MB\r\u001b[7B"
+    ],
+    [
+      0.001568,
+      "\u001b[5A\u001b[2K\r22e8e1df0837: Downloading 490.6 kB/1.377 MB\r\u001b[5B"
+    ],
+    [
+      0.017631,
+      "\u001b[5A\u001b[2K\r22e8e1df0837: Downloading   507 kB/1.377 MB\r\u001b[5B"
+    ],
+    [
+      0.014535,
+      "\u001b[5A\u001b[2K\r22e8e1df0837: Downloading 523.4 kB/1.377 MB\r\u001b[5B"
+    ],
+    [
+      0.011788,
+      "\u001b[5A\u001b[2K\r22e8e1df0837: Downloading 539.8 kB/1.377 MB\r\u001b[5B"
+    ],
+    [
+      0.01789,
+      "\u001b[5A\u001b[2K\r22e8e1df0837: Downloading 556.2 kB/1.377 MB\r\u001b[5B"
+    ],
+    [
+      0.006298,
+      "\u001b[7A\u001b[2K\r8168b7823bfe: Downloading 11.42 MB/27.73 MB\r\u001b[7B"
+    ],
+    [
+      0.003617,
+      "\u001b[5A\u001b[2K\r22e8e1df0837: Downloading 572.5 kB/1.377 MB\r\u001b[5B"
+    ],
+    [
+      0.013766,
+      "\u001b[5A\u001b[2K\r22e8e1df0837: Downloading 588.9 kB/1.377 MB\r\u001b[5B"
+    ],
+    [
+      0.031258,
+      "\u001b[5A\u001b[2K\r22e8e1df0837: Downloading 605.3 kB/1.377 MB\r\u001b[5B"
+    ],
+    [
+      0.00096,
+      "\u001b[5A\u001b[2K\r22e8e1df0837: Downloading 621.7 kB/1.377 MB\r\u001b[5B"
+    ],
+    [
+      0.010246,
+      "\u001b[5A\u001b[2K\r22e8e1df0837: Downloading 638.1 kB/1.377 MB\r\u001b[5B"
+    ],
+    [
+      0.017901,
+      "\u001b[5A\u001b[2K\r22e8e1df0837: Downloading 654.5 kB/1.377 MB\r\u001b[5B"
+    ],
+    [
+      0.003208,
+      "\u001b[7A\u001b[2K\r8168b7823bfe: Downloading  11.7 MB/27.73 MB\r\u001b[7B"
+    ],
+    [
+      0.004641,
+      "\u001b[5A\u001b[2K\r22e8e1df0837: Downloading 670.8 kB/1.377 MB\r\u001b[5B"
+    ],
+    [
+      0.01419,
+      "\u001b[5A\u001b[2K\r22e8e1df0837: Downloading 687.2 kB/1.377 MB\r\u001b[5B"
+    ],
+    [
+      0.010208,
+      "\u001b[5A\u001b[2K\r22e8e1df0837: Downloading 703.6 kB/1.377 MB\r\u001b[5B"
+    ],
+    [
+      0.014981,
+      "\u001b[5A\u001b[2K\r22e8e1df0837: Downloading   720 kB/1.377 MB\r\u001b[5B"
+    ],
+    [
+      0.015483,
+      "\u001b[7A\u001b[2K\r8168b7823bfe: Downloading 11.98 MB/27.73 MB\r\u001b[7B"
+    ],
+    [
+      0.002598,
+      "\u001b[5A\u001b[2K\r22e8e1df0837: Downloading 736.4 kB/1.377 MB\r\u001b[5B"
+    ],
+    [
+      0.012955,
+      "\u001b[5A\u001b[2K\r22e8e1df0837: Downloading 752.8 kB/1.377 MB\r\u001b[5B"
+    ],
+    [
+      0.006411,
+      "\u001b[5A\u001b[2K\r22e8e1df0837: Downloading 769.2 kB/1.377 MB\r\u001b[5B"
+    ],
+    [
+      0.014142,
+      "\u001b[5A\u001b[2K\r22e8e1df0837: Downloading 785.5 kB/1.377 MB\r\u001b[5B"
+    ],
+    [
+      0.013415,
+      "\u001b[5A\u001b[2K\r22e8e1df0837: Downloading 801.9 kB/1.377 MB\r\u001b[5B"
+    ],
+    [
+      0.010088,
+      "\u001b[5A\u001b[2K\r22e8e1df0837: Downloading 815.9 kB/1.377 MB\r\u001b[5B"
+    ],
+    [
+      0.012396,
+      "\u001b[7A\u001b[2K\r8168b7823bfe: Downloading 12.25 MB/27.73 MB\r\u001b[7B"
+    ],
+    [
+      0.001904,
+      "\u001b[5A\u001b[2K\r22e8e1df0837: Downloading 832.3 kB/1.377 MB\r\u001b[5B"
+    ],
+    [
+      0.010908,
+      "\u001b[5A\u001b[2K\r22e8e1df0837: Downloading 848.7 kB/1.377 MB\r\u001b[5B"
+    ],
+    [
+      0.015346,
+      "\u001b[5A\u001b[2K\r22e8e1df0837: Downloading 867.5 kB/1.377 MB\r\u001b[5B"
+    ],
+    [
+      0.014554,
+      "\u001b[5A\u001b[2K\r22e8e1df0837: Downloading 884.8 kB/1.377 MB\r\u001b[5B"
+    ],
+    [
+      0.016263,
+      "\u001b[5A\u001b[2K\r22e8e1df0837: Downloading 901.2 kB/1.377 MB\r\u001b[5B"
+    ],
+    [
+      0.006835,
+      "\u001b[7A\u001b[2K\r8168b7823bfe: Downloading 12.53 MB/27.73 MB\r\u001b[7B"
+    ],
+    [
+      0.007913,
+      "\u001b[5A\u001b[2K\r22e8e1df0837: Downloading 916.6 kB/1.377 MB\r\u001b[5B"
+    ],
+    [
+      0.012945,
+      "\u001b[5A\u001b[2K\r22e8e1df0837: Downloading   933 kB/1.377 MB\r\u001b[5B"
+    ],
+    [
+      0.024396,
+      "\u001b[5A\u001b[2K\r22e8e1df0837: Downloading 956.2 kB/1.377 MB\r\u001b[5B"
+    ],
+    [
+      0.004829,
+      "\u001b[5A\u001b[2K\r22e8e1df0837: Downloading 972.5 kB/1.377 MB\r\u001b[5B"
+    ],
+    [
+      0.023298,
+      "\u001b[7A\u001b[2K\r8168b7823bfe: Downloading 12.81 MB/27.73 MB\r\u001b[7B"
+    ],
+    [
+      0.001811,
+      "\u001b[5A\u001b[2K\r22e8e1df0837: Downloading 998.5 kB/1.377 MB\r\u001b[5B"
+    ],
+    [
+      0.014258,
+      "\u001b[5A\u001b[2K\r22e8e1df0837: Downloading 1.015 MB/1.377 MB\r\u001b[5B"
+    ],
+    [
+      0.012683,
+      "\u001b[5A\u001b[2K\r22e8e1df0837: Downloading 1.032 MB/1.377 MB\r\u001b[5B"
+    ],
+    [
+      0.014174,
+      "\u001b[5A\u001b[2K\r22e8e1df0837: Downloading 1.048 MB/1.377 MB\r\u001b[5B"
+    ],
+    [
+      0.010175,
+      "\u001b[5A\u001b[2K\r22e8e1df0837: Downloading 1.064 MB/1.377 MB\r\u001b[5B"
+    ],
+    [
+      0.014762,
+      "\u001b[5A\u001b[2K\r22e8e1df0837: Downloading  1.08 MB/1.377 MB\r\u001b[5B"
+    ],
+    [
+      0.006894,
+      "\u001b[7A\u001b[2K\r8168b7823bfe: Downloading 13.09 MB/27.73 MB\r\u001b[7B"
+    ],
+    [
+      0.005076,
+      "\u001b[5A\u001b[2K\r22e8e1df0837: Downloading 1.097 MB/1.377 MB\r\u001b[5B"
+    ],
+    [
+      0.004995,
+      "\u001b[5A\u001b[2K\r22e8e1df0837: Downloading 1.113 MB/1.377 MB\r\u001b[5B"
+    ],
+    [
+      0.01373,
+      "\u001b[5A\u001b[2K\r22e8e1df0837: Downloading  1.13 MB/1.377 MB\r\u001b[5B"
+    ],
+    [
+      0.014551,
+      "\u001b[5A\u001b[2K\r22e8e1df0837: Downloading 1.146 MB/1.377 MB\r\u001b[5B"
+    ],
+    [
+      0.010297,
+      "\u001b[5A\u001b[2K\r22e8e1df0837: Downloading 1.162 MB/1.377 MB\r\u001b[5B"
+    ],
+    [
+      0.01206,
+      "\u001b[5A\u001b[2K\r22e8e1df0837: Downloading 1.179 MB/1.377 MB\r\u001b[5B"
+    ],
+    [
+      0.011532,
+      "\u001b[5A\u001b[2K\r22e8e1df0837: Downloading 1.195 MB/1.377 MB\r\u001b[5B"
+    ],
+    [
+      0.00162,
+      "\u001b[7A\u001b[2K\r8168b7823bfe: Downloading 13.37 MB/27.73 MB\r\u001b[7B"
+    ],
+    [
+      0.010588,
+      "\u001b[5A\u001b[2K\r22e8e1df0837: Downloading 1.212 MB/1.377 MB\r\u001b[5B"
+    ],
+    [
+      0.010743,
+      "\u001b[5A\u001b[2K\r22e8e1df0837: Downloading 1.228 MB/1.377 MB\r\u001b[5B"
+    ],
+    [
+      0.013876,
+      "\u001b[5A\u001b[2K\r22e8e1df0837: Downloading 1.244 MB/1.377 MB\r\u001b[5B"
+    ],
+    [
+      0.013183,
+      "\u001b[5A\u001b[2K\r22e8e1df0837: Downloading 1.261 MB/1.377 MB\r\u001b[5B"
+    ],
+    [
+      0.006536,
+      "\u001b[5A\u001b[2K\r22e8e1df0837: Downloading 1.277 MB/1.377 MB\r\u001b[5B"
+    ],
+    [
+      0.010218,
+      "\u001b[5A\u001b[2K\r22e8e1df0837: Downloading 1.293 MB/1.377 MB\r\u001b[5B"
+    ],
+    [
+      0.002502,
+      "\u001b[4A\u001b[2K\r31ad4a41b5d1: Downloading    171 B/171 B\r\u001b[4B"
+    ],
+    [
+      0.001209,
+      "\u001b[4A\u001b[2K\r31ad4a41b5d1: Verifying Checksum \r\u001b[4B"
+    ],
+    [
+      0.000948,
+      "\u001b[4A\u001b[2K\r31ad4a41b5d1: Download complete \r\u001b[4B"
+    ],
+    [
+      0.005387,
+      "\u001b[7A\u001b[2K\r8168b7823bfe: Downloading 13.65 MB/27.73 MB\r\u001b[7B"
+    ],
+    [
+      0.002868,
+      "\u001b[5A\u001b[2K\r22e8e1df0837: Downloading  1.31 MB/1.377 MB\r\u001b[5B"
+    ],
+    [
+      0.013097,
+      "\u001b[5A\u001b[2K\r22e8e1df0837: Downloading 1.326 MB/1.377 MB\r\u001b[5B"
+    ],
+    [
+      0.013838,
+      "\u001b[5A\u001b[2K\r22e8e1df0837: Downloading 1.343 MB/1.377 MB\r\u001b[5B"
+    ],
+    [
+      0.022008,
+      "\u001b[5A\u001b[2K\r22e8e1df0837: Downloading 1.359 MB/1.377 MB\r\u001b[5B"
+    ],
+    [
+      0.001362,
+      "\u001b[5A"
+    ],
+    [
+      7.7e-05,
+      "\u001b[2K\r"
+    ],
+    [
+      9.1e-05,
+      "22e8e1df0837: "
+    ],
+    [
+      0.000125,
+      "Downloading 1.375 MB/1.377 MB\r"
+    ],
+    [
+      4e-05,
+      "\u001b[5B"
+    ],
+    [
+      0.004943,
+      "\u001b[5A\u001b[2K\r22e8e1df0837: Verifying Checksum \r\u001b[5B"
+    ],
+    [
+      0.000973,
+      "\u001b[5A\u001b[2K\r22e8e1df0837: Download complete \r\u001b[5B"
+    ],
+    [
+      0.006057,
+      "\u001b[7A\u001b[2K\r8168b7823bfe: Downloading 13.93 MB/27.73 MB\r\u001b[7B"
+    ],
+    [
+      0.052232,
+      "\u001b[7A\u001b[2K\r8168b7823bfe: Downloading  14.2 MB/27.73 MB\r\u001b[7B"
+    ],
+    [
+      0.0508,
+      "\u001b[7A\u001b[2K\r8168b7823bfe: Downloading 14.48 MB/27.73 MB\r\u001b[7B"
+    ],
+    [
+      0.047496,
+      "\u001b[7A\u001b[2K\r8168b7823bfe: Downloading 14.76 MB/27.73 MB\r\u001b[7B"
+    ],
+    [
+      0.063574,
+      "\u001b[7A\u001b[2K\r8168b7823bfe: Downloading 15.04 MB/27.73 MB\r\u001b[7B"
+    ],
+    [
+      0.038677,
+      "\u001b[7A\u001b[2K\r8168b7823bfe: Downloading 15.32 MB/27.73 MB\r\u001b[7B"
+    ],
+    [
+      0.052887,
+      "\u001b[7A\u001b[2K\r8168b7823bfe: Downloading  15.6 MB/27.73 MB\r\u001b[7B"
+    ],
+    [
+      0.052068,
+      "\u001b[7A\u001b[2K\r8168b7823bfe: Downloading 15.88 MB/27.73 MB\r\u001b[7B"
+    ],
+    [
+      0.051524,
+      "\u001b[7A\u001b[2K\r8168b7823bfe: Downloading 16.15 MB/27.73 MB\r\u001b[7B"
+    ],
+    [
+      0.093944,
+      "\u001b[7A"
+    ],
+    [
+      0.000849,
+      "\u001b[2K\r"
+    ],
+    [
+      0.001202,
+      "8168b7823bfe: "
+    ],
+    [
+      0.005213,
+      "Downloading 16.43 MB/27.73 MB\r"
+    ],
+    [
+      0.000885,
+      "\u001b[7B"
+    ],
+    [
+      0.033606,
+      "\u001b[7A\u001b[2K\r8168b7823bfe: Downloading 16.71 MB/27.73 MB\r\u001b[7B"
+    ],
+    [
+      0.079003,
+      "\u001b[7A\u001b[2K\r8168b7823bfe: Downloading 16.99 MB/27.73 MB\r\u001b[7B"
+    ],
+    [
+      0.07931,
+      "\u001b[7A\u001b[2K\r8168b7823bfe: Downloading 17.27 MB/27.73 MB\r\u001b[7B"
+    ],
+    [
+      0.054504,
+      "\u001b[7A\u001b[2K\r8168b7823bfe: Downloading 17.55 MB/27.73 MB\r\u001b[7B"
+    ],
+    [
+      0.091369,
+      "\u001b[7A"
+    ],
+    [
+      0.005223,
+      "\u001b[2K\r"
+    ],
+    [
+      0.008707,
+      "8168b7823bfe: "
+    ],
+    [
+      0.000701,
+      "Downloading 17.82 MB/27.73 MB\r"
+    ],
+    [
+      0.002057,
+      "\u001b[7B"
+    ],
+    [
+      0.047726,
+      "\u001b[7A\u001b[2K\r8168b7823bfe: Downloading  18.1 MB/27.73 MB\r\u001b[7B"
+    ],
+    [
+      0.106089,
+      "\u001b[7A\u001b[2K\r8168b7823bfe: Downloading 18.38 MB/27.73 MB\r\u001b[7B"
+    ],
+    [
+      0.071998,
+      "\u001b[7A"
+    ],
+    [
+      0.000212,
+      "\u001b[2K\r"
+    ],
+    [
+      0.00019,
+      "8168b7823bfe: "
+    ],
+    [
+      0.000867,
+      "Downloading 18.66 MB/27.73 MB\r"
+    ],
+    [
+      0.000206,
+      "\u001b[7B"
+    ],
+    [
+      0.046068,
+      "\u001b[7A"
+    ],
+    [
+      0.000269,
+      "\u001b[2K\r"
+    ],
+    [
+      0.000369,
+      "8168b7823bfe: "
+    ],
+    [
+      0.000221,
+      "Downloading 18.94 MB/27.73 MB\r"
+    ],
+    [
+      0.000125,
+      "\u001b[7B"
+    ],
+    [
+      0.197047,
+      "\u001b[7A\u001b[2K\r8168b7823bfe: "
+    ],
+    [
+      0.008218,
+      "Downloading 19.22 MB/27.73 MB\r"
+    ],
+    [
+      0.001469,
+      "\u001b[7B"
+    ],
+    [
+      0.022485,
+      "\u001b[2A\u001b[2K\rce1b59d128f5: Downloading 2.423 kB/2.423 kB\r\u001b[2B"
+    ],
+    [
+      0.007899,
+      "\u001b[2A\u001b[2K\r"
+    ],
+    [
+      0.0098,
+      "ce1b59d128f5: "
+    ],
+    [
+      0.001771,
+      "Verifying Checksum \r\u001b[2B\u001b[2A\u001b[2K\rce1b59d128f5: Download complete \r\u001b[2B"
+    ],
+    [
+      0.006663,
+      "\u001b[3A\u001b[2K\r4a4d927ab503: Downloading 32.77 kB/2.066 MB\r\u001b[3B"
+    ],
+    [
+      0.037961,
+      "\u001b[3A\u001b[2K\r4a4d927ab503: Downloading 64.64 kB/2.066 MB\r\u001b[3B"
+    ],
+    [
+      0.016587,
+      "\u001b[3A\u001b[2K\r4a4d927ab503: Downloading  90.7 kB/2.066 MB\r\u001b[3B"
+    ],
+    [
+      0.066415,
+      "\u001b[3A\u001b[2K\r4a4d927ab503: Downloading 123.5 kB/2.066 MB\r\u001b[3B"
+    ],
+    [
+      0.035622,
+      "\u001b[7A\u001b[2K\r8168b7823bfe: Downloading  19.5 MB/27.73 MB\r\u001b[7B"
+    ],
+    [
+      0.013229,
+      "\u001b[3A"
+    ],
+    [
+      0.000341,
+      "\u001b[2K\r"
+    ],
+    [
+      0.006185,
+      "4a4d927ab503: Downloading 146.6 kB/2.066 MB\r"
+    ],
+    [
+      0.000173,
+      "\u001b[3B"
+    ],
+    [
+      0.00021,
+      "\u001b[3A"
+    ],
+    [
+      0.000192,
+      "\u001b[2K\r4a4d927ab503: Downloading 179.3 kB/2.066 MB\r\u001b[3B"
+    ],
+    [
+      0.035405,
+      "\u001b[3A"
+    ],
+    [
+      0.001273,
+      "\u001b[2K\r"
+    ],
+    [
+      0.007105,
+      "4a4d927ab503: "
+    ],
+    [
+      0.000171,
+      "Downloading 212.1 kB/2.066 MB\r\u001b[3B"
+    ],
+    [
+      0.025217,
+      "\u001b[3A\u001b[2K\r4a4d927ab503: Downloading 248.3 kB/2.066 MB\r\u001b[3B"
+    ],
+    [
+      0.006943,
+      "\u001b[3A\u001b[2K\r4a4d927ab503: Downloading 277.6 kB/2.066 MB\r\u001b[3B"
+    ],
+    [
+      0.006506,
+      "\u001b[7A\u001b[2K\r8168b7823bfe: Downloading 19.77 MB/27.73 MB\r\u001b[7B"
+    ],
+    [
+      0.014499,
+      "\u001b[3A\u001b[2K\r4a4d927ab503: Downloading 306.6 kB/2.066 MB\r\u001b[3B"
+    ],
+    [
+      0.039708,
+      "\u001b[3A\u001b[2K\r4a4d927ab503: Downloading 343.2 kB/2.066 MB\r\u001b[3B"
+    ],
+    [
+      0.030905,
+      "\u001b[3A\u001b[2K\r4a4d927ab503: Downloading 371.7 kB/2.066 MB\r\u001b[3B"
+    ],
+    [
+      0.033371,
+      "\u001b[3A\u001b[2K\r4a4d927ab503: Downloading 408.7 kB/2.066 MB\r\u001b[3B"
+    ],
+    [
+      0.020947,
+      "\u001b[7A\u001b[2K\r8168b7823bfe: Downloading 20.05 MB/27.73 MB\r\u001b[7B"
+    ],
+    [
+      0.028082,
+      "\u001b[3A"
+    ],
+    [
+      0.009408,
+      "\u001b[2K\r"
+    ],
+    [
+      0.000214,
+      "4a4d927ab503: "
+    ],
+    [
+      0.000234,
+      "Downloading 441.5 kB/2.066 MB\r"
+    ],
+    [
+      0.000287,
+      "\u001b[3B"
+    ],
+    [
+      0.019791,
+      "\u001b[3A\u001b[2K\r4a4d927ab503: Downloading 474.2 kB/2.066 MB\r\u001b[3B"
+    ],
+    [
+      0.033777,
+      "\u001b[3A\u001b[2K\r4a4d927ab503: Downloading   507 kB/2.066 MB\r\u001b[3B"
+    ],
+    [
+      0.030026,
+      "\u001b[3A\u001b[2K\r4a4d927ab503: Downloading 539.8 kB/2.066 MB\r\u001b[3B"
+    ],
+    [
+      0.029046,
+      "\u001b[3A\u001b[2K\r4a4d927ab503: Downloading 572.5 kB/2.066 MB\r\u001b[3B"
+    ],
+    [
+      0.019343,
+      "\u001b[3A\u001b[2K\r4a4d927ab503: Downloading 605.3 kB/2.066 MB\r\u001b[3B"
+    ],
+    [
+      0.01839,
+      "\u001b[7A\u001b[2K\r8168b7823bfe: Downloading 20.33 MB/27.73 MB\r\u001b[7B"
+    ],
+    [
+      0.034348,
+      "\u001b[3A\u001b[2K\r4a4d927ab503: Downloading 638.1 kB/2.066 MB\r\u001b[3B"
+    ],
+    [
+      0.031553,
+      "\u001b[3A\u001b[2K\r4a4d927ab503: Downloading 670.8 kB/2.066 MB\r\u001b[3B"
+    ],
+    [
+      0.050475,
+      "\u001b[7A\u001b[2K\r8168b7823bfe: Downloading 20.61 MB/27.73 MB\r\u001b[7B"
+    ],
+    [
+      0.002487,
+      "\u001b[3A"
+    ],
+    [
+      0.000418,
+      "\u001b[2K\r4a4d927ab503: "
+    ],
+    [
+      8e-05,
+      "Downloading 702.7 kB/2.066 MB\r\u001b[3B"
+    ],
+    [
+      0.010662,
+      "\u001b[3A\u001b[2K\r4a4d927ab503: Downloading 736.4 kB/2.066 MB\r\u001b[3B"
+    ],
+    [
+      0.030632,
+      "\u001b[3A\u001b[2K\r4a4d927ab503: Downloading 769.2 kB/2.066 MB\r\u001b[3B"
+    ],
+    [
+      0.007076,
+      "\u001b[3A\u001b[2K\r4a4d927ab503: Downloading 801.9 kB/2.066 MB\r\u001b[3B"
+    ],
+    [
+      0.005734,
+      "\u001b[3A\u001b[2K\r4a4d927ab503: Downloading 834.7 kB/2.066 MB\r\u001b[3B"
+    ],
+    [
+      0.022399,
+      "\u001b[3A\u001b[2K\r4a4d927ab503: Downloading 867.5 kB/2.066 MB\r\u001b[3B"
+    ],
+    [
+      0.016968,
+      "\u001b[3A\u001b[2K\r4a4d927ab503: Downloading 900.2 kB/2.066 MB\r\u001b[3B"
+    ],
+    [
+      0.027512,
+      "\u001b[3A\u001b[2K\r4a4d927ab503: Downloading   933 kB/2.066 MB\r\u001b[3B"
+    ],
+    [
+      0.02161,
+      "\u001b[7A\u001b[2K\r8168b7823bfe: Downloading 20.89 MB/27.73 MB\r\u001b[7B"
+    ],
+    [
+      0.009235,
+      "\u001b[3A\u001b[2K\r4a4d927ab503: Downloading 965.8 kB/2.066 MB\r\u001b[3B"
+    ],
+    [
+      0.01746,
+      "\u001b[3A\u001b[2K\r4a4d927ab503: Downloading 998.5 kB/2.066 MB\r\u001b[3B"
+    ],
+    [
+      0.014582,
+      "\u001b[3A\u001b[2K\r4a4d927ab503: Downloading 1.031 MB/2.066 MB\r\u001b[3B"
+    ],
+    [
+      0.02399,
+      "\u001b[3A\u001b[2K\r4a4d927ab503: Downloading 1.064 MB/2.066 MB\r\u001b[3B"
+    ],
+    [
+      0.023243,
+      "\u001b[3A\u001b[2K\r4a4d927ab503: Downloading 1.097 MB/2.066 MB\r\u001b[3B"
+    ],
+    [
+      0.036932,
+      "\u001b[3A\u001b[2K\r4a4d927ab503: Downloading  1.13 MB/2.066 MB\r\u001b[3B"
+    ],
+    [
+      0.013652,
+      "\u001b[7A\u001b[2K\r8168b7823bfe: Downloading 21.17 MB/27.73 MB\r\u001b[7B"
+    ],
+    [
+      0.005113,
+      "\u001b[3A\u001b[2K\r4a4d927ab503: Downloading 1.162 MB/2.066 MB\r\u001b[3B"
+    ],
+    [
+      0.018557,
+      "\u001b[3A\u001b[2K\r4a4d927ab503: Downloading 1.195 MB/2.066 MB\r\u001b[3B"
+    ],
+    [
+      0.010066,
+      "\u001b[3A\u001b[2K\r4a4d927ab503: Downloading 1.228 MB/2.066 MB\r\u001b[3B"
+    ],
+    [
+      0.008531,
+      "\u001b[3A\u001b[2K\r4a4d927ab503: Downloading 1.261 MB/2.066 MB\r\u001b[3B"
+    ],
+    [
+      0.01741,
+      "\u001b[3A\u001b[2K\r4a4d927ab503: Downloading 1.293 MB/2.066 MB\r\u001b[3B"
+    ],
+    [
+      0.009855,
+      "\u001b[3A\u001b[2K\r4a4d927ab503: Downloading 1.326 MB/2.066 MB\r\u001b[3B"
+    ],
+    [
+      0.018098,
+      "\u001b[3A\u001b[2K\r4a4d927ab503: Downloading 1.359 MB/2.066 MB\r\u001b[3B"
+    ],
+    [
+      0.014011,
+      "\u001b[3A\u001b[2K\r4a4d927ab503: Downloading 1.392 MB/2.066 MB\r\u001b[3B"
+    ],
+    [
+      0.019146,
+      "\u001b[3A\u001b[2K\r4a4d927ab503: Downloading 1.425 MB/2.066 MB\r\u001b[3B"
+    ],
+    [
+      0.007195,
+      "\u001b[3A\u001b[2K\r4a4d927ab503: Downloading 1.457 MB/2.066 MB\r\u001b[3B"
+    ],
+    [
+      0.009584,
+      "\u001b[3A\u001b[2K\r4a4d927ab503: Downloading  1.49 MB/2.066 MB\r\u001b[3B"
+    ],
+    [
+      0.006134,
+      "\u001b[3A\u001b[2K\r4a4d927ab503: Downloading 1.523 MB/2.066 MB\r\u001b[3B"
+    ],
+    [
+      0.002971,
+      "\u001b[3A\u001b[2K\r4a4d927ab503: Downloading 1.556 MB/2.066 MB\r\u001b[3B"
+    ],
+    [
+      0.00643,
+      "\u001b[7A\u001b[2K\r8168b7823bfe: Downloading 21.45 MB/27.73 MB\r\u001b[7B"
+    ],
+    [
+      0.003865,
+      "\u001b[3A\u001b[2K\r4a4d927ab503: Downloading 1.588 MB/2.066 MB\r\u001b[3B"
+    ],
+    [
+      0.018154,
+      "\u001b[3A\u001b[2K\r4a4d927ab503: Downloading 1.621 MB/2.066 MB\r\u001b[3B"
+    ],
+    [
+      0.002959,
+      "\u001b[3A"
+    ],
+    [
+      0.002897,
+      "\u001b[2K\r"
+    ],
+    [
+      0.000294,
+      "4a4d927ab503: "
+    ],
+    [
+      0.000204,
+      "Downloading 1.654 MB/2.066 MB\r"
+    ],
+    [
+      0.000381,
+      "\u001b[3B"
+    ],
+    [
+      0.000338,
+      "\u001b[3A"
+    ],
+    [
+      0.002341,
+      "\u001b[2K\r"
+    ],
+    [
+      0.002847,
+      "4a4d927ab503: "
+    ],
+    [
+      0.000654,
+      "Downloading 1.687 MB/2.066 MB\r"
+    ],
+    [
+      0.001724,
+      "\u001b[3B\u001b[3A"
+    ],
+    [
+      0.000126,
+      "\u001b[2K\r4a4d927ab503: "
+    ],
+    [
+      0.001847,
+      "Downloading 1.719 MB/2.066 MB\r"
+    ],
+    [
+      0.001729,
+      "\u001b[3B"
+    ],
+    [
+      0.0036,
+      "\u001b[3A\u001b[2K\r4a4d927ab503: Downloading 1.752 MB/2.066 MB\r\u001b[3B"
+    ],
+    [
+      0.004019,
+      "\u001b[3A\u001b[2K\r4a4d927ab503: Downloading 1.785 MB/2.066 MB\r\u001b[3B"
+    ],
+    [
+      0.009688,
+      "\u001b[3A\u001b[2K\r4a4d927ab503: Downloading 1.818 MB/2.066 MB\r\u001b[3B"
+    ],
+    [
+      0.003488,
+      "\u001b[3A\u001b[2K\r4a4d927ab503: Downloading  1.85 MB/2.066 MB\r\u001b[3B"
+    ],
+    [
+      0.004297,
+      "\u001b[3A\u001b[2K\r4a4d927ab503: Downloading 1.883 MB/2.066 MB\r\u001b[3B"
+    ],
+    [
+      0.003665,
+      "\u001b[3A\u001b[2K\r4a4d927ab503: Downloading 1.916 MB/2.066 MB\r\u001b[3B"
+    ],
+    [
+      0.023055,
+      "\u001b[3A\u001b[2K\r4a4d927ab503: Downloading 1.949 MB/2.066 MB\r\u001b[3B"
+    ],
+    [
+      0.001523,
+      "\u001b[3A"
+    ],
+    [
+      0.000321,
+      "\u001b[2K\r4a4d927ab503: "
+    ],
+    [
+      0.00019,
+      "Downloading 1.982 MB/2.066 MB\r\u001b[3B"
+    ],
+    [
+      0.003514,
+      "\u001b[3A"
+    ],
+    [
+      0.000192,
+      "\u001b[2K\r"
+    ],
+    [
+      0.000187,
+      "4a4d927ab503: "
+    ],
+    [
+      0.000207,
+      "Downloading 2.014 MB/2.066 MB\r"
+    ],
+    [
+      0.000174,
+      "\u001b[3B\u001b[3A"
+    ],
+    [
+      0.000133,
+      "\u001b[2K\r4a4d927ab503: Downloading 2.047 MB/2.066 MB\r"
+    ],
+    [
+      0.00018,
+      "\u001b[3B\u001b[7A"
+    ],
+    [
+      0.000116,
+      "\u001b[2K\r8168b7823bfe: Downloading 21.72 MB/27.73 MB\r\u001b[7B"
+    ],
+    [
+      0.005209,
+      "\u001b[3A\u001b[2K\r4a4d927ab503: Verifying Checksum \r\u001b[3B"
+    ],
+    [
+      0.001773,
+      "\u001b[3A"
+    ],
+    [
+      0.000309,
+      "\u001b[2K\r4a4d927ab503: Download complete \r"
+    ],
+    [
+      8.6e-05,
+      "\u001b[3B"
+    ],
+    [
+      0.04509,
+      "\u001b[7A\u001b[2K\r8168b7823bfe: Downloading    22 MB/27.73 MB\r\u001b[7B"
+    ],
+    [
+      0.045131,
+      "\u001b[7A\u001b[2K\r8168b7823bfe: Downloading 22.28 MB/27.73 MB\r\u001b[7B"
+    ],
+    [
+      0.049519,
+      "\u001b[7A\u001b[2K\r8168b7823bfe: Downloading 22.56 MB/27.73 MB\r\u001b[7B"
+    ],
+    [
+      0.05943,
+      "\u001b[1A\u001b[2K\r4b31bdc05309: Downloading 2.423 kB/2.423 kB\r\u001b[1B"
+    ],
+    [
+      0.015132,
+      "\u001b[1A\u001b[2K\r4b31bdc05309: Verifying Checksum \r\u001b[1B\u001b[1A\u001b[2K\r4b31bdc05309: Download complete \r\u001b[1B"
+    ],
+    [
+      0.006622,
+      "\u001b[7A\u001b[2K\r8168b7823bfe: Downloading 22.84 MB/27.73 MB\r\u001b[7B"
+    ],
+    [
+      0.049522,
+      "\u001b[7A\u001b[2K\r8168b7823bfe: Downloading 23.12 MB/27.73 MB\r\u001b[7B"
+    ],
+    [
+      0.045369,
+      "\u001b[7A"
+    ],
+    [
+      0.000804,
+      "\u001b[2K\r"
+    ],
+    [
+      0.00264,
+      "8168b7823bfe: "
+    ],
+    [
+      0.000201,
+      "Downloading  23.4 MB/27.73 MB\r"
+    ],
+    [
+      0.000102,
+      "\u001b[7B"
+    ],
+    [
+      0.031205,
+      "\u001b[7A\u001b[2K\r8168b7823bfe: Downloading 23.67 MB/27.73 MB\r\u001b[7B"
+    ],
+    [
+      0.038703,
+      "\u001b[7A\u001b[2K\r8168b7823bfe: Downloading 23.95 MB/27.73 MB\r\u001b[7B"
+    ],
+    [
+      0.023141,
+      "\u001b[7A\u001b[2K\r8168b7823bfe: Downloading 24.23 MB/27.73 MB\r\u001b[7B"
+    ],
+    [
+      0.070537,
+      "\u001b[7A\u001b[2K\r8168b7823bfe: Downloading 24.51 MB/27.73 MB\r\u001b[7B"
+    ],
+    [
+      0.023039,
+      "\u001b[7A\u001b[2K\r8168b7823bfe: Downloading 24.79 MB/27.73 MB\r\u001b[7B"
+    ],
+    [
+      0.010248,
+      "\u001b[7A\u001b[2K\r8168b7823bfe: Downloading 25.07 MB/27.73 MB\r\u001b[7B"
+    ],
+    [
+      0.011869,
+      "\u001b[7A\u001b[2K\r8168b7823bfe: Downloading 25.35 MB/27.73 MB\r\u001b[7B"
+    ],
+    [
+      0.016052,
+      "\u001b[7A\u001b[2K\r8168b7823bfe: Downloading 25.62 MB/27.73 MB\r\u001b[7B"
+    ],
+    [
+      0.016142,
+      "\u001b[7A\u001b[2K\r8168b7823bfe: Downloading  25.9 MB/27.73 MB\r\u001b[7B"
+    ],
+    [
+      0.014623,
+      "\u001b[7A\u001b[2K\r8168b7823bfe: Downloading 26.18 MB/27.73 MB\r\u001b[7B"
+    ],
+    [
+      0.027989,
+      "\u001b[7A\u001b[2K\r8168b7823bfe: Downloading 26.46 MB/27.73 MB\r\u001b[7B"
+    ],
+    [
+      0.032392,
+      "\u001b[7A\u001b[2K\r8168b7823bfe: Downloading 26.74 MB/27.73 MB\r\u001b[7B"
+    ],
+    [
+      0.031361,
+      "\u001b[7A\u001b[2K\r8168b7823bfe: Downloading 27.02 MB/27.73 MB\r\u001b[7B"
+    ],
+    [
+      0.033352,
+      "\u001b[7A\u001b[2K\r8168b7823bfe: Downloading 27.29 MB/27.73 MB\r\u001b[7B"
+    ],
+    [
+      0.003001,
+      "\u001b[7A\u001b[2K\r8168b7823bfe: Downloading 27.57 MB/27.73 MB\r\u001b[7B"
+    ],
+    [
+      0.001696,
+      "\u001b[7A"
+    ],
+    [
+      0.000139,
+      "\u001b[2K\r"
+    ],
+    [
+      0.000223,
+      "8168b7823bfe: "
+    ],
+    [
+      0.000135,
+      "Verifying Checksum \r\u001b[7B"
+    ],
+    [
+      0.002396,
+      "\u001b[7A"
+    ],
+    [
+      0.000236,
+      "\u001b[2K\r"
+    ],
+    [
+      0.000154,
+      "8168b7823bfe: "
+    ],
+    [
+      0.003546,
+      "Download complete \r"
+    ],
+    [
+      0.0002,
+      "\u001b[7B"
+    ],
+    [
+      0.468013,
+      "\u001b[7A\u001b[2K\r8168b7823bfe: Extracting 294.9 kB/27.73 MB\r\u001b[7B"
+    ],
+    [
+      0.10657,
+      "\u001b[7A\u001b[2K\r8168b7823bfe: Extracting 589.8 kB/27.73 MB\r\u001b[7B"
+    ],
+    [
+      0.104388,
+      "\u001b[7A\u001b[2K\r8168b7823bfe: Extracting 884.7 kB/27.73 MB\r\u001b[7B"
+    ],
+    [
+      0.099135,
+      "\u001b[7A\u001b[2K\r8168b7823bfe: Extracting  1.18 MB/27.73 MB\r\u001b[7B"
+    ],
+    [
+      0.124366,
+      "\u001b[7A\u001b[2K\r8168b7823bfe: Extracting 1.475 MB/27.73 MB\r\u001b[7B"
+    ],
+    [
+      0.163929,
+      "\u001b[7A\u001b[2K\r8168b7823bfe: Extracting 1.769 MB/27.73 MB\r\u001b[7B"
+    ],
+    [
+      0.12799,
+      "\u001b[7A\u001b[2K\r8168b7823bfe: Extracting 2.064 MB/27.73 MB\r\u001b[7B"
+    ],
+    [
+      0.114614,
+      "\u001b[7A\u001b[2K\r8168b7823bfe: Extracting 2.359 MB/27.73 MB\r\u001b[7B"
+    ],
+    [
+      0.101599,
+      "\u001b[7A\u001b[2K\r8168b7823bfe: Extracting 2.654 MB/27.73 MB\r\u001b[7B"
+    ],
+    [
+      0.194201,
+      "\u001b[7A\u001b[2K\r8168b7823bfe: Extracting 2.949 MB/27.73 MB\r\u001b[7B"
+    ],
+    [
+      0.153518,
+      "\u001b[7A\u001b[2K\r8168b7823bfe: Extracting 3.244 MB/27.73 MB\r\u001b[7B"
+    ],
+    [
+      0.159478,
+      "\u001b[7A\u001b[2K\r8168b7823bfe: Extracting 3.539 MB/27.73 MB\r\u001b[7B"
+    ],
+    [
+      0.205756,
+      "\u001b[7A\u001b[2K\r8168b7823bfe: Extracting 3.834 MB/27.73 MB\r\u001b[7B"
+    ],
+    [
+      0.122508,
+      "\u001b[7A\u001b[2K\r8168b7823bfe: Extracting 4.129 MB/27.73 MB\r\u001b[7B"
+    ],
+    [
+      0.106778,
+      "\u001b[7A\u001b[2K\r8168b7823bfe: Extracting 4.424 MB/27.73 MB\r\u001b[7B"
+    ],
+    [
+      0.118619,
+      "\u001b[7A\u001b[2K\r8168b7823bfe: Extracting 4.719 MB/27.73 MB\r\u001b[7B"
+    ],
+    [
+      0.133654,
+      "\u001b[7A\u001b[2K\r8168b7823bfe: Extracting 5.014 MB/27.73 MB\r\u001b[7B"
+    ],
+    [
+      0.098581,
+      "\u001b[7A\u001b[2K\r8168b7823bfe: Extracting 5.308 MB/27.73 MB\r\u001b[7B"
+    ],
+    [
+      0.101538,
+      "\u001b[7A\u001b[2K\r8168b7823bfe: Extracting 5.603 MB/27.73 MB\r\u001b[7B"
+    ],
+    [
+      0.087004,
+      "\u001b[7A\u001b[2K\r8168b7823bfe: Extracting 5.898 MB/27.73 MB\r\u001b[7B"
+    ],
+    [
+      0.087148,
+      "\u001b[7A\u001b[2K\r8168b7823bfe: Extracting 6.193 MB/27.73 MB\r\u001b[7B"
+    ],
+    [
+      0.104378,
+      "\u001b[7A\u001b[2K\r8168b7823bfe: Extracting 6.488 MB/27.73 MB\r\u001b[7B"
+    ],
+    [
+      0.118767,
+      "\u001b[7A\u001b[2K\r8168b7823bfe: Extracting 6.783 MB/27.73 MB\r\u001b[7B"
+    ],
+    [
+      0.087185,
+      "\u001b[7A\u001b[2K\r8168b7823bfe: Extracting 7.078 MB/27.73 MB\r\u001b[7B"
+    ],
+    [
+      0.087691,
+      "\u001b[7A\u001b[2K\r8168b7823bfe: Extracting 7.373 MB/27.73 MB\r\u001b[7B"
+    ],
+    [
+      0.105985,
+      "\u001b[7A\u001b[2K\r8168b7823bfe: Extracting 7.668 MB/27.73 MB\r\u001b[7B"
+    ],
+    [
+      0.13325,
+      "\u001b[7A\u001b[2K\r8168b7823bfe: Extracting 7.963 MB/27.73 MB\r\u001b[7B"
+    ],
+    [
+      0.117196,
+      "\u001b[7A\u001b[2K\r8168b7823bfe: Extracting 8.258 MB/27.73 MB\r\u001b[7B"
+    ],
+    [
+      0.092276,
+      "\u001b[7A\u001b[2K\r8168b7823bfe: Extracting 8.552 MB/27.73 MB\r\u001b[7B"
+    ],
+    [
+      0.092246,
+      "\u001b[7A\u001b[2K\r8168b7823bfe: Extracting 8.847 MB/27.73 MB\r\u001b[7B"
+    ],
+    [
+      0.098154,
+      "\u001b[7A\u001b[2K\r8168b7823bfe: Extracting 9.142 MB/27.73 MB\r\u001b[7B"
+    ],
+    [
+      0.08261,
+      "\u001b[7A\u001b[2K\r8168b7823bfe: Extracting 9.437 MB/27.73 MB\r\u001b[7B"
+    ],
+    [
+      0.110203,
+      "\u001b[7A\u001b[2K\r8168b7823bfe: Extracting 9.732 MB/27.73 MB\r\u001b[7B"
+    ],
+    [
+      0.106317,
+      "\u001b[7A\u001b[2K\r8168b7823bfe: Extracting 10.03 MB/27.73 MB\r\u001b[7B"
+    ],
+    [
+      0.091875,
+      "\u001b[7A\u001b[2K\r8168b7823bfe: Extracting 10.32 MB/27.73 MB\r\u001b[7B"
+    ],
+    [
+      0.081922,
+      "\u001b[7A\u001b[2K\r8168b7823bfe: Extracting 10.62 MB/27.73 MB\r\u001b[7B"
+    ],
+    [
+      0.121454,
+      "\u001b[7A\u001b[2K\r8168b7823bfe: Extracting 10.91 MB/27.73 MB\r\u001b[7B"
+    ],
+    [
+      0.107525,
+      "\u001b[7A\u001b[2K\r8168b7823bfe: Extracting 11.21 MB/27.73 MB\r\u001b[7B"
+    ],
+    [
+      0.107143,
+      "\u001b[7A\u001b[2K\r8168b7823bfe: Extracting  11.5 MB/27.73 MB\r\u001b[7B"
+    ],
+    [
+      0.102751,
+      "\u001b[7A\u001b[2K\r8168b7823bfe: Extracting  11.8 MB/27.73 MB\r\u001b[7B"
+    ],
+    [
+      0.104843,
+      "\u001b[7A\u001b[2K\r8168b7823bfe: Extracting 12.09 MB/27.73 MB\r\u001b[7B"
+    ],
+    [
+      0.107265,
+      "\u001b[7A\u001b[2K\r8168b7823bfe: Extracting 12.39 MB/27.73 MB\r\u001b[7B"
+    ],
+    [
+      0.119655,
+      "\u001b[7A\u001b[2K\r8168b7823bfe: Extracting 12.68 MB/27.73 MB\r\u001b[7B"
+    ],
+    [
+      0.124985,
+      "\u001b[7A\u001b[2K\r8168b7823bfe: Extracting 12.98 MB/27.73 MB\r\u001b[7B"
+    ],
+    [
+      0.187366,
+      "\u001b[7A\u001b[2K\r8168b7823bfe: Extracting 13.27 MB/27.73 MB\r\u001b[7B"
+    ],
+    [
+      0.289093,
+      "\u001b[7A\u001b[2K\r8168b7823bfe: Extracting 13.57 MB/27.73 MB\r\u001b[7B"
+    ],
+    [
+      0.172483,
+      "\u001b[7A\u001b[2K\r8168b7823bfe: Extracting 13.86 MB/27.73 MB\r\u001b[7B"
+    ],
+    [
+      0.150892,
+      "\u001b[7A\u001b[2K\r8168b7823bfe: Extracting 14.16 MB/27.73 MB\r\u001b[7B"
+    ],
+    [
+      0.132704,
+      "\u001b[7A\u001b[2K\r8168b7823bfe: Extracting 14.45 MB/27.73 MB\r\u001b[7B"
+    ],
+    [
+      0.131788,
+      "\u001b[7A\u001b[2K\r8168b7823bfe: Extracting 14.75 MB/27.73 MB\r\u001b[7B"
+    ],
+    [
+      0.12954,
+      "\u001b[7A\u001b[2K\r8168b7823bfe: Extracting 15.04 MB/27.73 MB\r\u001b[7B"
+    ],
+    [
+      0.137679,
+      "\u001b[7A\u001b[2K\r8168b7823bfe: Extracting 15.34 MB/27.73 MB\r\u001b[7B"
+    ],
+    [
+      0.186101,
+      "\u001b[7A\u001b[2K\r8168b7823bfe: Extracting 15.63 MB/27.73 MB\r\u001b[7B"
+    ],
+    [
+      0.089649,
+      "\u001b[7A\u001b[2K\r8168b7823bfe: Extracting 15.93 MB/27.73 MB\r\u001b[7B"
+    ],
+    [
+      0.095835,
+      "\u001b[7A\u001b[2K\r8168b7823bfe: Extracting 16.22 MB/27.73 MB\r\u001b[7B"
+    ],
+    [
+      0.11105,
+      "\u001b[7A\u001b[2K\r8168b7823bfe: Extracting 16.52 MB/27.73 MB\r\u001b[7B"
+    ],
+    [
+      0.084534,
+      "\u001b[7A\u001b[2K\r8168b7823bfe: Extracting 16.81 MB/27.73 MB\r\u001b[7B"
+    ],
+    [
+      0.088329,
+      "\u001b[7A\u001b[2K\r8168b7823bfe: Extracting  17.1 MB/27.73 MB\r\u001b[7B"
+    ],
+    [
+      0.090326,
+      "\u001b[7A\u001b[2K\r8168b7823bfe: Extracting  17.4 MB/27.73 MB\r\u001b[7B"
+    ],
+    [
+      0.173008,
+      "\u001b[7A\u001b[2K\r8168b7823bfe: Extracting 17.69 MB/27.73 MB\r\u001b[7B"
+    ],
+    [
+      0.123998,
+      "\u001b[7A\u001b[2K\r8168b7823bfe: Extracting 17.99 MB/27.73 MB\r\u001b[7B"
+    ],
+    [
+      0.124657,
+      "\u001b[7A\u001b[2K\r8168b7823bfe: Extracting 18.28 MB/27.73 MB\r\u001b[7B"
+    ],
+    [
+      0.118669,
+      "\u001b[7A\u001b[2K\r8168b7823bfe: Extracting 18.58 MB/27.73 MB\r\u001b[7B"
+    ],
+    [
+      0.094951,
+      "\u001b[7A\u001b[2K\r8168b7823bfe: Extracting 18.87 MB/27.73 MB\r\u001b[7B"
+    ],
+    [
+      0.095111,
+      "\u001b[7A\u001b[2K\r8168b7823bfe: Extracting 19.17 MB/27.73 MB\r\u001b[7B"
+    ],
+    [
+      0.095035,
+      "\u001b[7A\u001b[2K\r8168b7823bfe: Extracting 19.46 MB/27.73 MB\r\u001b[7B"
+    ],
+    [
+      0.15103,
+      "\u001b[7A\u001b[2K\r8168b7823bfe: Extracting 19.76 MB/27.73 MB\r\u001b[7B"
+    ],
+    [
+      0.090018,
+      "\u001b[7A\u001b[2K\r8168b7823bfe: Extracting 20.05 MB/27.73 MB\r\u001b[7B"
+    ],
+    [
+      0.149669,
+      "\u001b[7A\u001b[2K\r8168b7823bfe: Extracting 20.35 MB/27.73 MB\r\u001b[7B"
+    ],
+    [
+      0.108379,
+      "\u001b[7A\u001b[2K\r8168b7823bfe: Extracting 20.64 MB/27.73 MB\r\u001b[7B"
+    ],
+    [
+      0.122076,
+      "\u001b[7A\u001b[2K\r8168b7823bfe: Extracting 20.94 MB/27.73 MB\r\u001b[7B"
+    ],
+    [
+      0.135814,
+      "\u001b[7A\u001b[2K\r8168b7823bfe: Extracting 21.23 MB/27.73 MB\r\u001b[7B"
+    ],
+    [
+      0.076475,
+      "\u001b[7A\u001b[2K\r8168b7823bfe: Extracting 21.53 MB/27.73 MB\r\u001b[7B"
+    ],
+    [
+      0.083297,
+      "\u001b[7A\u001b[2K\r8168b7823bfe: Extracting 21.82 MB/27.73 MB\r\u001b[7B"
+    ],
+    [
+      0.099775,
+      "\u001b[7A\u001b[2K\r8168b7823bfe: Extracting 22.12 MB/27.73 MB\r\u001b[7B"
+    ],
+    [
+      0.110004,
+      "\u001b[7A\u001b[2K\r8168b7823bfe: Extracting 22.41 MB/27.73 MB\r\u001b[7B"
+    ],
+    [
+      0.134205,
+      "\u001b[7A\u001b[2K\r8168b7823bfe: Extracting 22.71 MB/27.73 MB\r\u001b[7B"
+    ],
+    [
+      0.110032,
+      "\u001b[7A\u001b[2K\r8168b7823bfe: Extracting    23 MB/27.73 MB\r\u001b[7B"
+    ],
+    [
+      0.116974,
+      "\u001b[7A\u001b[2K\r8168b7823bfe: Extracting  23.3 MB/27.73 MB\r\u001b[7B"
+    ],
+    [
+      0.121112,
+      "\u001b[7A\u001b[2K\r8168b7823bfe: Extracting 23.59 MB/27.73 MB\r\u001b[7B"
+    ],
+    [
+      0.092603,
+      "\u001b[7A\u001b[2K\r8168b7823bfe: Extracting 23.89 MB/27.73 MB\r\u001b[7B"
+    ],
+    [
+      0.087397,
+      "\u001b[7A\u001b[2K\r8168b7823bfe: Extracting 24.18 MB/27.73 MB\r\u001b[7B"
+    ],
+    [
+      0.091243,
+      "\u001b[7A\u001b[2K\r8168b7823bfe: Extracting 24.48 MB/27.73 MB\r\u001b[7B"
+    ],
+    [
+      0.097574,
+      "\u001b[7A\u001b[2K\r8168b7823bfe: Extracting 24.77 MB/27.73 MB\r\u001b[7B"
+    ],
+    [
+      0.102139,
+      "\u001b[7A\u001b[2K\r8168b7823bfe: Extracting 25.07 MB/27.73 MB\r\u001b[7B"
+    ],
+    [
+      0.104089,
+      "\u001b[7A\u001b[2K\r8168b7823bfe: Extracting 25.36 MB/27.73 MB\r\u001b[7B"
+    ],
+    [
+      0.100184,
+      "\u001b[7A\u001b[2K\r8168b7823bfe: Extracting 25.66 MB/27.73 MB\r\u001b[7B"
+    ],
+    [
+      0.125021,
+      "\u001b[7A\u001b[2K\r8168b7823bfe: Extracting 25.95 MB/27.73 MB\r\u001b[7B"
+    ],
+    [
+      0.107936,
+      "\u001b[7A\u001b[2K\r8168b7823bfe: Extracting 26.25 MB/27.73 MB\r\u001b[7B"
+    ],
+    [
+      0.112671,
+      "\u001b[7A\u001b[2K\r8168b7823bfe: Extracting 26.54 MB/27.73 MB\r\u001b[7B"
+    ],
+    [
+      0.122005,
+      "\u001b[7A\u001b[2K\r8168b7823bfe: Extracting 26.84 MB/27.73 MB\r\u001b[7B"
+    ],
+    [
+      0.127181,
+      "\u001b[7A\u001b[2K\r8168b7823bfe: Extracting 27.13 MB/27.73 MB\r\u001b[7B"
+    ],
+    [
+      0.123668,
+      "\u001b[7A\u001b[2K\r8168b7823bfe: Extracting 27.43 MB/27.73 MB\r\u001b[7B"
+    ],
+    [
+      0.184809,
+      "\u001b[7A\u001b[2K\r8168b7823bfe: Extracting 27.72 MB/27.73 MB\r\u001b[7B"
+    ],
+    [
+      0.024121,
+      "\u001b[7A\u001b[2K\r8168b7823bfe: Extracting 27.73 MB/27.73 MB\r\u001b[7B"
+    ],
+    [
+      0.031248,
+      "\u001b[7A\u001b[2K\r8168b7823bfe: Pull complete \r\u001b[7B"
+    ],
+    [
+      0.042555,
+      "\u001b[6A\u001b[2K\r6c96a51d997f: Extracting    487 B/487 B\r\u001b[6B"
+    ],
+    [
+      0.015626,
+      "\u001b[6A\u001b[2K\r6c96a51d997f: Extracting    487 B/487 B\r\u001b[6B"
+    ],
+    [
+      0.100764,
+      "\u001b[6A\u001b[2K\r6c96a51d997f: Pull complete \r\u001b[6B"
+    ],
+    [
+      0.034491,
+      "\u001b[5A\u001b[2K\r22e8e1df0837: Extracting 32.77 kB/1.377 MB\r\u001b[5B"
+    ],
+    [
+      0.021335,
+      "\u001b[5A\u001b[2K\r22e8e1df0837: Extracting 65.54 kB/1.377 MB\r\u001b[5B"
+    ],
+    [
+      0.014697,
+      "\u001b[5A\u001b[2K\r22e8e1df0837: Extracting  98.3 kB/1.377 MB\r\u001b[5B"
+    ],
+    [
+      0.107772,
+      "\u001b[5A\u001b[2K\r22e8e1df0837: Extracting 131.1 kB/1.377 MB\r\u001b[5B"
+    ],
+    [
+      0.030447,
+      "\u001b[5A\u001b[2K\r22e8e1df0837: Extracting 196.6 kB/1.377 MB\r\u001b[5B"
+    ],
+    [
+      0.036787,
+      "\u001b[5A\u001b[2K\r22e8e1df0837: Extracting 229.4 kB/1.377 MB\r\u001b[5B"
+    ],
+    [
+      0.022222,
+      "\u001b[5A\u001b[2K\r22e8e1df0837: Extracting 262.1 kB/1.377 MB\r\u001b[5B"
+    ],
+    [
+      0.036505,
+      "\u001b[5A\u001b[2K\r22e8e1df0837: Extracting 360.4 kB/1.377 MB\r\u001b[5B"
+    ],
+    [
+      0.017002,
+      "\u001b[5A\u001b[2K\r22e8e1df0837: Extracting   426 kB/1.377 MB\r\u001b[5B"
+    ],
+    [
+      0.006056,
+      "\u001b[5A\u001b[2K\r22e8e1df0837: Extracting 491.5 kB/1.377 MB\r\u001b[5B"
+    ],
+    [
+      0.006144,
+      "\u001b[5A\u001b[2K\r22e8e1df0837: Extracting 557.1 kB/1.377 MB\r\u001b[5B"
+    ],
+    [
+      0.005208,
+      "\u001b[5A\u001b[2K\r22e8e1df0837: Extracting 622.6 kB/1.377 MB\r\u001b[5B"
+    ],
+    [
+      0.006439,
+      "\u001b[5A"
+    ],
+    [
+      0.000299,
+      "\u001b[2K\r"
+    ],
+    [
+      0.000246,
+      "22e8e1df0837: Extracting 655.4 kB/1.377 MB\r"
+    ],
+    [
+      0.000106,
+      "\u001b[5B"
+    ],
+    [
+      0.002711,
+      "\u001b[5A\u001b[2K\r22e8e1df0837: Extracting 720.9 kB/1.377 MB\r\u001b[5B"
+    ],
+    [
+      0.006238,
+      "\u001b[5A\u001b[2K\r22e8e1df0837: Extracting 786.4 kB/1.377 MB\r\u001b[5B"
+    ],
+    [
+      0.006994,
+      "\u001b[5A\u001b[2K\r22e8e1df0837: Extracting   852 kB/1.377 MB\r\u001b[5B"
+    ],
+    [
+      0.005958,
+      "\u001b[5A\u001b[2K\r22e8e1df0837: Extracting 917.5 kB/1.377 MB\r\u001b[5B"
+    ],
+    [
+      0.005703,
+      "\u001b[5A\u001b[2K\r22e8e1df0837: Extracting   983 kB/1.377 MB\r\u001b[5B"
+    ],
+    [
+      0.004679,
+      "\u001b[5A\u001b[2K\r22e8e1df0837: Extracting 1.049 MB/1.377 MB\r\u001b[5B"
+    ],
+    [
+      0.008169,
+      "\u001b[5A\u001b[2K\r22e8e1df0837: Extracting 1.114 MB/1.377 MB\r\u001b[5B"
+    ],
+    [
+      0.005279,
+      "\u001b[5A\u001b[2K\r22e8e1df0837: Extracting  1.18 MB/1.377 MB\r\u001b[5B"
+    ],
+    [
+      0.007244,
+      "\u001b[5A\u001b[2K\r22e8e1df0837: Extracting 1.245 MB/1.377 MB\r\u001b[5B"
+    ],
+    [
+      0.005043,
+      "\u001b[5A\u001b[2K\r22e8e1df0837: Extracting 1.311 MB/1.377 MB\r\u001b[5B"
+    ],
+    [
+      0.006769,
+      "\u001b[5A\u001b[2K\r22e8e1df0837: Extracting 1.376 MB/1.377 MB\r\u001b[5B"
+    ],
+    [
+      0.010261,
+      "\u001b[5A\u001b[2K\r22e8e1df0837: Extracting 1.377 MB/1.377 MB\r\u001b[5B"
+    ],
+    [
+      0.031423,
+      "\u001b[5A\u001b[2K\r22e8e1df0837: Pull complete \r\u001b[5B"
+    ],
+    [
+      0.026535,
+      "\u001b[4A\u001b[2K\r31ad4a41b5d1: Extracting    171 B/171 B\r\u001b[4B"
+    ],
+    [
+      0.013117,
+      "\u001b[4A\u001b[2K\r31ad4a41b5d1: Extracting    171 B/171 B\r\u001b[4B"
+    ],
+    [
+      0.105702,
+      "\u001b[4A\u001b[2K\r31ad4a41b5d1: Pull complete \r\u001b[4B"
+    ],
+    [
+      0.038209,
+      "\u001b[3A\u001b[2K\r4a4d927ab503: Extracting 32.77 kB/2.066 MB\r\u001b[3B"
+    ],
+    [
+      0.029183,
+      "\u001b[3A\u001b[2K\r4a4d927ab503: Extracting 65.54 kB/2.066 MB\r\u001b[3B"
+    ],
+    [
+      0.092569,
+      "\u001b[3A\u001b[2K\r4a4d927ab503: Extracting  98.3 kB/2.066 MB\r\u001b[3B"
+    ],
+    [
+      0.027144,
+      "\u001b[3A\u001b[2K\r4a4d927ab503: Extracting 163.8 kB/2.066 MB\r\u001b[3B"
+    ],
+    [
+      0.001892,
+      "\u001b[3A"
+    ],
+    [
+      0.000165,
+      "\u001b[2K\r"
+    ],
+    [
+      0.000207,
+      "4a4d927ab503: "
+    ],
+    [
+      0.000102,
+      "Extracting 196.6 kB/2.066 MB\r\u001b[3B"
+    ],
+    [
+      0.080723,
+      "\u001b[3A\u001b[2K\r4a4d927ab503: Extracting 262.1 kB/2.066 MB\r\u001b[3B"
+    ],
+    [
+      0.027323,
+      "\u001b[3A\u001b[2K\r4a4d927ab503: Extracting 327.7 kB/2.066 MB\r\u001b[3B"
+    ],
+    [
+      0.02999,
+      "\u001b[3A\u001b[2K\r4a4d927ab503: Extracting 393.2 kB/2.066 MB\r\u001b[3B"
+    ],
+    [
+      0.020734,
+      "\u001b[3A\u001b[2K\r4a4d927ab503: Extracting 458.8 kB/2.066 MB\r\u001b[3B"
+    ],
+    [
+      0.021233,
+      "\u001b[3A\u001b[2K\r4a4d927ab503: Extracting 524.3 kB/2.066 MB\r\u001b[3B"
+    ],
+    [
+      0.002093,
+      "\u001b[3A\u001b[2K\r4a4d927ab503: Extracting 557.1 kB/2.066 MB\r\u001b[3B"
+    ],
+    [
+      0.044246,
+      "\u001b[3A\u001b[2K\r4a4d927ab503: Extracting 622.6 kB/2.066 MB\r\u001b[3B"
+    ],
+    [
+      0.002763,
+      "\u001b[3A"
+    ],
+    [
+      0.000256,
+      "\u001b[2K\r"
+    ],
+    [
+      0.00019,
+      "4a4d927ab503: Extracting 655.4 kB/2.066 MB\r"
+    ],
+    [
+      6.2e-05,
+      "\u001b[3B"
+    ],
+    [
+      0.036252,
+      "\u001b[3A\u001b[2K\r4a4d927ab503: Extracting 720.9 kB/2.066 MB\r\u001b[3B"
+    ],
+    [
+      0.024467,
+      "\u001b[3A\u001b[2K\r4a4d927ab503: Extracting 786.4 kB/2.066 MB\r\u001b[3B"
+    ],
+    [
+      0.020827,
+      "\u001b[3A\u001b[2K\r4a4d927ab503: Extracting   852 kB/2.066 MB\r\u001b[3B"
+    ],
+    [
+      0.01694,
+      "\u001b[3A\u001b[2K\r4a4d927ab503: Extracting 917.5 kB/2.066 MB\r\u001b[3B"
+    ],
+    [
+      0.002232,
+      "\u001b[3A\u001b[2K\r4a4d927ab503: Extracting 950.3 kB/2.066 MB\r\u001b[3B"
+    ],
+    [
+      0.035731,
+      "\u001b[3A\u001b[2K\r4a4d927ab503: Extracting 1.016 MB/2.066 MB\r\u001b[3B"
+    ],
+    [
+      0.03298,
+      "\u001b[3A\u001b[2K\r4a4d927ab503: Extracting 1.081 MB/2.066 MB\r\u001b[3B"
+    ],
+    [
+      0.019321,
+      "\u001b[3A\u001b[2K\r4a4d927ab503: Extracting 1.147 MB/2.066 MB\r\u001b[3B"
+    ],
+    [
+      0.002246,
+      "\u001b[3A\u001b[2K\r4a4d927ab503: Extracting  1.18 MB/2.066 MB\r\u001b[3B"
+    ],
+    [
+      0.027408,
+      "\u001b[3A\u001b[2K\r4a4d927ab503: Extracting 1.245 MB/2.066 MB\r\u001b[3B"
+    ],
+    [
+      0.018313,
+      "\u001b[3A\u001b[2K\r4a4d927ab503: Extracting 1.311 MB/2.066 MB\r\u001b[3B"
+    ],
+    [
+      0.025712,
+      "\u001b[3A\u001b[2K\r4a4d927ab503: Extracting 1.376 MB/2.066 MB\r\u001b[3B"
+    ],
+    [
+      0.023627,
+      "\u001b[3A\u001b[2K\r4a4d927ab503: Extracting 1.442 MB/2.066 MB\r\u001b[3B"
+    ],
+    [
+      0.002015,
+      "\u001b[3A"
+    ],
+    [
+      0.000309,
+      "\u001b[2K\r"
+    ],
+    [
+      0.001174,
+      "4a4d927ab503: "
+    ],
+    [
+      0.000188,
+      "Extracting 1.475 MB/2.066 MB\r\u001b[3B"
+    ],
+    [
+      0.029264,
+      "\u001b[3A\u001b[2K\r4a4d927ab503: Extracting  1.54 MB/2.066 MB\r\u001b[3B"
+    ],
+    [
+      0.027761,
+      "\u001b[3A\u001b[2K\r4a4d927ab503: Extracting 1.606 MB/2.066 MB\r\u001b[3B"
+    ],
+    [
+      0.00283,
+      "\u001b[3A\u001b[2K\r4a4d927ab503: Extracting 1.638 MB/2.066 MB\r\u001b[3B"
+    ],
+    [
+      0.048697,
+      "\u001b[3A\u001b[2K\r4a4d927ab503: Extracting 1.704 MB/2.066 MB\r\u001b[3B"
+    ],
+    [
+      0.003179,
+      "\u001b[3A"
+    ],
+    [
+      0.000174,
+      "\u001b[2K\r4a4d927ab503: Extracting 1.737 MB/2.066 MB\r\u001b[3B"
+    ],
+    [
+      0.16764,
+      "\u001b[3A\u001b[2K\r4a4d927ab503: Extracting 1.769 MB/2.066 MB\r\u001b[3B"
+    ],
+    [
+      0.204141,
+      "\u001b[3A\u001b[2K\r4a4d927ab503: Extracting 1.802 MB/2.066 MB\r\u001b[3B"
+    ],
+    [
+      0.150325,
+      "\u001b[3A\u001b[2K\r4a4d927ab503: Extracting 1.835 MB/2.066 MB\r\u001b[3B"
+    ],
+    [
+      0.178958,
+      "\u001b[3A\u001b[2K\r4a4d927ab503: Extracting 1.868 MB/2.066 MB\r\u001b[3B"
+    ],
+    [
+      0.127851,
+      "\u001b[3A\u001b[2K\r4a4d927ab503: Extracting 1.901 MB/2.066 MB\r\u001b[3B"
+    ],
+    [
+      0.176263,
+      "\u001b[3A\u001b[2K\r4a4d927ab503: Extracting 1.933 MB/2.066 MB\r\u001b[3B"
+    ],
+    [
+      0.231953,
+      "\u001b[3A\u001b[2K\r4a4d927ab503: Extracting 1.966 MB/2.066 MB\r\u001b[3B"
+    ],
+    [
+      0.154417,
+      "\u001b[3A\u001b[2K\r4a4d927ab503: Extracting 1.999 MB/2.066 MB\r\u001b[3B"
+    ],
+    [
+      0.167571,
+      "\u001b[3A\u001b[2K\r4a4d927ab503: Extracting 2.032 MB/2.066 MB\r\u001b[3B"
+    ],
+    [
+      0.192572,
+      "\u001b[3A\u001b[2K\r4a4d927ab503: Extracting 2.064 MB/2.066 MB\r\u001b[3B"
+    ],
+    [
+      0.13121,
+      "\u001b[3A\u001b[2K\r4a4d927ab503: Extracting 2.066 MB/2.066 MB\r\u001b[3B"
+    ],
+    [
+      0.053855,
+      "\u001b[3A\u001b[2K\r4a4d927ab503: Pull complete \r\u001b[3B"
+    ],
+    [
+      0.043826,
+      "\u001b[2A\u001b[2K\rce1b59d128f5: Extracting 2.423 kB/2.423 kB\r\u001b[2B"
+    ],
+    [
+      0.013957,
+      "\u001b[2A\u001b[2K\rce1b59d128f5: Extracting 2.423 kB/2.423 kB\r\u001b[2B"
+    ],
+    [
+      0.102383,
+      "\u001b[2A\u001b[2K\rce1b59d128f5: Pull complete \r\u001b[2B"
+    ],
+    [
+      0.035234,
+      "\u001b[1A\u001b[2K\r4b31bdc05309: Extracting 2.423 kB/2.423 kB\r\u001b[1B"
+    ],
+    [
+      0.010852,
+      "\u001b[1A\u001b[2K\r4b31bdc05309: Extracting 2.423 kB/2.423 kB\r\u001b[1B"
+    ],
+    [
+      0.102203,
+      "\u001b[1A\u001b[2K\r4b31bdc05309: Pull complete \r\u001b[1B"
+    ],
+    [
+      0.037747,
+      "Digest: sha256:7809e5b2808ba24cb0104b9cd7a4ac9c0400e1a742d089f594b4fe8d16b45c44\r\r\n"
+    ],
+    [
+      0.018176,
+      "Status: Downloaded newer image for singularityware/docker2singularity:latest\r\r\n"
+    ],
+    [
+      0.5,
+      "Size: 727 MB for the singularity container\r\r\r\n"
+    ],
+    [
+      0.015493,
+      "(1/9) Creating an empty image...\r\r\r\n"
+    ],
+    [
+      0.04279,
+      "Creating a sparse image with a maximum size of 727MiB...\r\r\r\nUsing given image size of 727\r\r\r\n"
+    ],
+    [
+      0.013747,
+      "Formatting image (/sbin/mkfs.ext3)\r\r\r\n"
+    ],
+    [
+      0.389273,
+      "Done. Image can be found at: /tmp/expansionhunter_2.5.1-dev-2017-06-22-3579bd99f935.img\r\r\r\n(2/9) Importing filesystem...\r\r\r\n"
+    ],
+    [
+      0.5,
+      "(3/9) Bootstrapping..."
+    ],
+    [
+      0.004017,
+      "\r\r\r\n"
+    ],
+    [
+      0.126663,
+      "(4/9) Adding run script...\r\r\r\n"
+    ],
+    [
+      0.13273,
+      "(5/9) Setting ENV variables...\r\r\r\n"
+    ],
+    [
+      0.5,
+      "Singularity: sexec (U=0,P=134)> Command=exec, Container=/tmp/expansionhunter_2.5.1-dev-2017-06-22-3579bd99f935.img, CWD=/, Arg1=/bin/sh\r\r\r\n"
+    ],
+    [
+      0.122052,
+      "(6/9) Adding mount points...\r\r\r\n"
+    ],
+    [
+      0.004994,
+      "Singularity: sexec (U=0,P=140)> Command=exec, Container=/tmp/expansionhunter_2.5.1-dev-2017-06-22-3579bd99f935.img, CWD=/, Arg1=/bin/sh\r\r\r\n"
+    ],
+    [
+      0.117139,
+      "(7/9) Fixing permissions...\r\r\r\n"
+    ],
+    [
+      0.007736,
+      "Singularity: sexec (U=0,P=146)> Command=exec, Container=/tmp/expansionhunter_2.5.1-dev-2017-06-22-3579bd99f935.img, CWD=/, Arg1=/bin/sh\r\r\r\n"
+    ],
+    [
+      0.462053,
+      "We're running on BusyBox/Buildroot\r\r\r\n"
+    ],
+    [
+      0.01085,
+      "Singularity: sexec (U=0,P=184)> Command=exec, Container=/tmp/expansionhunter_2.5.1-dev-2017-06-22-3579bd99f935.img, CWD=/, Arg1=/bin/sh\r\r\r\n"
+    ],
+    [
+      0.5,
+      "(8/9) Stopping and removing the container...\r\r\r\n"
+    ],
+    [
+      0.014774,
+      "3579bd99f935\r\r\r\n"
+    ],
+    [
+      0.033427,
+      "3579bd99f935\r\r\r\n(9/9) Moving the image to the output folder...\r\r\r\n"
+    ],
+    [
+      0.002949,
+      "\r         32,768   0%    0.00kB/s    0:00:00  "
+    ],
+    [
+      0.5,
+      "\r    188,710,912  24%  179.94MB/s    0:00:03  "
+    ],
+    [
+      0.5,
+      "\r    323,485,696  42%  154.31MB/s    0:00:02  "
+    ],
+    [
+      0.5,
+      "\r    457,277,440  59%  145.45MB/s    0:00:02  "
+    ],
+    [
+      0.5,
+      "\r    589,955,072  77%  140.75MB/s    0:00:01  "
+    ],
+    [
+      0.5,
+      "\r    689,537,024  90%  103.70MB/s    0:00:00  "
+    ],
+    [
+      0.485929,
+      "\r    762,314,784 100%  119.41MB/s    0:00:06 (xfr#1, to-chk=0/1)\r    762,314,784 100%  119.41MB/s    0:00:06 (xfr#1, to-chk=0/1)\r    762,314,784 100%  119.39MB/s    0:00:06 (xfr#1, to-chk=0/1)\r    762,314,784 100%  119.39MB/s    0:00:06 (xfr#1, to-chk=0/1)\r\r\r\n"
+    ],
+    [
+      0.338541,
+      "\u001b]0;maartenk@ubuntu: ~/docker/alpine/expansionhunter\u0007\u001b[01;32mmaartenk@ubuntu\u001b[00m:\u001b[01;34m~/docker/alpine/expansionhunter\u001b[00m$ "
+    ],
+    [
+      0.5,
+      "l"
+    ],
+    [
+      0.086791,
+      "s"
+    ],
+    [
+      0.162986,
+      " "
+    ],
+    [
+      0.12254,
+      "-"
+    ],
+    [
+      0.140379,
+      "l"
+    ],
+    [
+      0.130657,
+      "a"
+    ],
+    [
+      0.5,
+      "h"
+    ],
+    [
+      0.114438,
+      "\r\r\n"
+    ],
+    [
+      0.002673,
+      "total 728M"
+    ],
+    [
+      0.000401,
+      "\r\r\n"
+    ],
+    [
+      0.000566,
+      "drwxr-xr-x 2 maartenk maartenk 4.0K Jun 22 13:33 \u001b[0m\u001b[01;34m.\u001b[0m"
+    ],
+    [
+      0.000297,
+      "\r\r\n"
+    ],
+    [
+      0.000372,
+      "drwxrwxr-x 3 maartenk maartenk 4.0K Jun 22 11:38 \u001b[01;34m..\u001b[0m"
+    ],
+    [
+      8.5e-05,
+      "\r\r\n"
+    ],
+    [
+      0.00028,
+      "-rw-rw-r-- 1 maartenk maartenk    0 Jun 22 13:27 convertlocal2sing.json"
+    ],
+    [
+      0.00035,
+      "\r\r\n"
+    ],
+    [
+      0.000622,
+      "-rw-r--r-- 1 maartenk maartenk 7.9K Jun 22 11:38 dockerbuild.json"
+    ],
+    [
+      0.000249,
+      "\r\r\n"
+    ],
+    [
+      0.000542,
+      "-rw-r--r-- 1 maartenk maartenk  389 Jun 22 11:38 Dockerfile"
+    ],
+    [
+      0.00021,
+      "\r\r\n"
+    ],
+    [
+      0.000348,
+      "-rwxr-xr-x 1 root     root     728M Jun 22 13:33 \u001b[01;32mexpansionhunter_2.5.1-dev-2017-06-22-3579bd99f935.img\u001b[0m"
+    ],
+    [
+      0.000229,
+      "\r\r\n"
+    ],
+    [
+      0.000374,
+      "-rw-rw-r-- 1 maartenk maartenk 480K Jun 22 12:01 install_singulariy.json"
+    ],
+    [
+      0.000285,
+      "\r\r\n"
+    ],
+    [
+      0.00099,
+      "\u001b]0;maartenk@ubuntu: ~/docker/alpine/expansionhunter\u0007\u001b[01;32mmaartenk@ubuntu\u001b[00m:\u001b[01;34m~/docker/alpine/expansionhunter\u001b[00m$ "
+    ],
+    [
+      0.5,
+      "s"
+    ],
+    [
+      0.099019,
+      "i"
+    ],
+    [
+      0.154713,
+      "n"
+    ],
+    [
+      0.120989,
+      "g"
+    ],
+    [
+      0.5,
+      "u"
+    ],
+    [
+      0.183075,
+      "larity "
+    ],
+    [
+      0.5,
+      "r"
+    ],
+    [
+      0.191705,
+      "u"
+    ],
+    [
+      0.14088,
+      "n"
+    ],
+    [
+      0.202118,
+      " "
+    ],
+    [
+      0.5,
+      "e"
+    ],
+    [
+      0.218856,
+      "xpansionhunter_2.5.1-dev\rv-2017-06-22-3579bd99f935.img "
+    ],
+    [
+      0.5,
+      "\r\r\n"
+    ],
+    [
+      0.053914,
+      "Expansion Hunter v2.5.1"
+    ],
+    [
+      0.000336,
+      "\r\r\n"
+    ],
+    [
+      0.000555,
+      "Allowed options"
+    ],
+    [
+      5.6e-05,
+      ":"
+    ],
+    [
+      0.000328,
+      "\r\r\n"
+    ],
+    [
+      0.00059,
+      "  --help "
+    ],
+    [
+      0.000221,
+      " "
+    ],
+    [
+      0.000418,
+      " "
+    ],
+    [
+      0.00036,
+      " "
+    ],
+    [
+      0.000427,
+      " "
+    ],
+    [
+      0.000385,
+      " "
+    ],
+    [
+      0.000172,
+      " "
+    ],
+    [
+      0.000345,
+      " "
+    ],
+    [
+      0.000289,
+      " "
+    ],
+    [
+      0.000289,
+      " "
+    ],
+    [
+      0.00041,
+      " "
+    ],
+    [
+      0.000181,
+      " "
+    ],
+    [
+      0.000386,
+      " "
+    ],
+    [
+      0.000225,
+      " "
+    ],
+    [
+      0.000342,
+      " "
+    ],
+    [
+      0.000371,
+      " "
+    ],
+    [
+      0.000196,
+      " "
+    ],
+    [
+      0.000597,
+      " "
+    ],
+    [
+      2.7e-05,
+      " "
+    ],
+    [
+      6.2e-05,
+      " "
+    ],
+    [
+      2.2e-05,
+      " "
+    ],
+    [
+      5.5e-05,
+      " "
+    ],
+    [
+      3.4e-05,
+      " "
+    ],
+    [
+      4e-05,
+      " "
+    ],
+    [
+      3.9e-05,
+      " "
+    ],
+    [
+      4.2e-05,
+      " "
+    ],
+    [
+      4.5e-05,
+      " "
+    ],
+    [
+      3.1e-05,
+      " "
+    ],
+    [
+      6.5e-05,
+      " "
+    ],
+    [
+      2.7e-05,
+      " "
+    ],
+    [
+      1.9e-05,
+      " "
+    ],
+    [
+      5.3e-05,
+      " "
+    ],
+    [
+      6e-05,
+      "Print help message"
+    ],
+    [
+      7.9e-05,
+      "\r\r\n"
+    ],
+    [
+      0.00016,
+      "  --version "
+    ],
+    [
+      3.1e-05,
+      " "
+    ],
+    [
+      0.000145,
+      " "
+    ],
+    [
+      8.3e-05,
+      " "
+    ],
+    [
+      4.4e-05,
+      " "
+    ],
+    [
+      4.3e-05,
+      " "
+    ],
+    [
+      6e-05,
+      " "
+    ],
+    [
+      2.2e-05,
+      " "
+    ],
+    [
+      4.7e-05,
+      " "
+    ],
+    [
+      9.5e-05,
+      " "
+    ],
+    [
+      4.9e-05,
+      " "
+    ],
+    [
+      6.1e-05,
+      " "
+    ],
+    [
+      5.5e-05,
+      " "
+    ],
+    [
+      2.1e-05,
+      " "
+    ],
+    [
+      4.5e-05,
+      " "
+    ],
+    [
+      5.1e-05,
+      " "
+    ],
+    [
+      8.4e-05,
+      " "
+    ],
+    [
+      4.5e-05,
+      " "
+    ],
+    [
+      5.3e-05,
+      " "
+    ],
+    [
+      2.2e-05,
+      " "
+    ],
+    [
+      5.4e-05,
+      " "
+    ],
+    [
+      5.9e-05,
+      " "
+    ],
+    [
+      2.6e-05,
+      " "
+    ],
+    [
+      5.1e-05,
+      " "
+    ],
+    [
+      6.1e-05,
+      " "
+    ],
+    [
+      2.4e-05,
+      " "
+    ],
+    [
+      3.9e-05,
+      " "
+    ],
+    [
+      5.3e-05,
+      " "
+    ],
+    [
+      2.5e-05,
+      " "
+    ],
+    [
+      5.5e-05,
+      "Print version number"
+    ],
+    [
+      6e-05,
+      "\r\r\n"
+    ],
+    [
+      5.6e-05,
+      "  --bam arg"
+    ],
+    [
+      2.4e-05,
+      " "
+    ],
+    [
+      4.9e-05,
+      " "
+    ],
+    [
+      4.4e-05,
+      " "
+    ],
+    [
+      5.5e-05,
+      " "
+    ],
+    [
+      2.2e-05,
+      " "
+    ],
+    [
+      5e-05,
+      " "
+    ],
+    [
+      5.9e-05,
+      " "
+    ],
+    [
+      4.2e-05,
+      " "
+    ],
+    [
+      7.5e-05,
+      " "
+    ],
+    [
+      8.6e-05,
+      " "
+    ],
+    [
+      0.000341,
+      " "
+    ],
+    [
+      0.000301,
+      " "
+    ],
+    [
+      6.3e-05,
+      " "
+    ],
+    [
+      9.8e-05,
+      " "
+    ],
+    [
+      2.5e-05,
+      " "
+    ],
+    [
+      1.8e-05,
+      " "
+    ],
+    [
+      3.3e-05,
+      " "
+    ],
+    [
+      4.4e-05,
+      " "
+    ],
+    [
+      5.7e-05,
+      " "
+    ],
+    [
+      2.3e-05,
+      " "
+    ],
+    [
+      3.8e-05,
+      " "
+    ],
+    [
+      5.5e-05,
+      " "
+    ],
+    [
+      2.8e-05,
+      " "
+    ],
+    [
+      4.3e-05,
+      " "
+    ],
+    [
+      5.6e-05,
+      " "
+    ],
+    [
+      2.2e-05,
+      " "
+    ],
+    [
+      4.3e-05,
+      " "
+    ],
+    [
+      5.4e-05,
+      " "
+    ],
+    [
+      3.8e-05,
+      " "
+    ],
+    [
+      4.2e-05,
+      "BAM file"
+    ],
+    [
+      5.4e-05,
+      "\r\r\n"
+    ],
+    [
+      4.9e-05,
+      "  --ref-fasta arg"
+    ],
+    [
+      4.3e-05,
+      " "
+    ],
+    [
+      3.2e-05,
+      " "
+    ],
+    [
+      4e-05,
+      " "
+    ],
+    [
+      5.7e-05,
+      " "
+    ],
+    [
+      2.4e-05,
+      " "
+    ],
+    [
+      3.3e-05,
+      " "
+    ],
+    [
+      6e-05,
+      " "
+    ],
+    [
+      2.5e-05,
+      " "
+    ],
+    [
+      4.6e-05,
+      " "
+    ],
+    [
+      2.6e-05,
+      " "
+    ],
+    [
+      1.7e-05,
+      " "
+    ],
+    [
+      5.8e-05,
+      " "
+    ],
+    [
+      2.2e-05,
+      " "
+    ],
+    [
+      4.2e-05,
+      " "
+    ],
+    [
+      3.6e-05,
+      " "
+    ],
+    [
+      3.4e-05,
+      " "
+    ],
+    [
+      5.1e-05,
+      " "
+    ],
+    [
+      4.9e-05,
+      " "
+    ],
+    [
+      4.4e-05,
+      " "
+    ],
+    [
+      5.2e-05,
+      " "
+    ],
+    [
+      2.1e-05,
+      " "
+    ],
+    [
+      5.4e-05,
+      " "
+    ],
+    [
+      2.4e-05,
+      " "
+    ],
+    [
+      5.1e-05,
+      "FASTA file with reference genome"
+    ],
+    [
+      4.9e-05,
+      "\r\r\n"
+    ],
+    [
+      6.1e-05,
+      "  --repeat-specs arg"
+    ],
+    [
+      2.3e-05,
+      " "
+    ],
+    [
+      6e-05,
+      " "
+    ],
+    [
+      3.1e-05,
+      " "
+    ],
+    [
+      5.5e-05,
+      " "
+    ],
+    [
+      2.4e-05,
+      " "
+    ],
+    [
+      4.4e-05,
+      " "
+    ],
+    [
+      3.5e-05,
+      " "
+    ],
+    [
+      5.5e-05,
+      " "
+    ],
+    [
+      2.8e-05,
+      " "
+    ],
+    [
+      5.1e-05,
+      " "
+    ],
+    [
+      2.4e-05,
+      " "
+    ],
+    [
+      5.3e-05,
+      " "
+    ],
+    [
+      2.4e-05,
+      " "
+    ],
+    [
+      4.4e-05,
+      " "
+    ],
+    [
+      5.3e-05,
+      " "
+    ],
+    [
+      2.1e-05,
+      " "
+    ],
+    [
+      6.2e-05,
+      " "
+    ],
+    [
+      5.2e-05,
+      " "
+    ],
+    [
+      4.9e-05,
+      " "
+    ],
+    [
+      2.3e-05,
+      " "
+    ],
+    [
+      5.6e-05,
+      "D"
+    ],
+    [
+      3.6e-05,
+      "i"
+    ],
+    [
+      0.000339,
+      "r"
+    ],
+    [
+      4.6e-05,
+      "e"
+    ],
+    [
+      5.8e-05,
+      "c"
+    ],
+    [
+      5.5e-05,
+      "t"
+    ],
+    [
+      5.3e-05,
+      "o"
+    ],
+    [
+      5.3e-05,
+      "r"
+    ],
+    [
+      3.4e-05,
+      "y"
+    ],
+    [
+      3.9e-05,
+      " "
+    ],
+    [
+      5.9e-05,
+      "w"
+    ],
+    [
+      4.6e-05,
+      "i"
+    ],
+    [
+      3.8e-05,
+      "t"
+    ],
+    [
+      4.3e-05,
+      "h"
+    ],
+    [
+      5.3e-05,
+      " "
+    ],
+    [
+      2.2e-05,
+      "r"
+    ],
+    [
+      5.5e-05,
+      "e"
+    ],
+    [
+      5e-05,
+      "p"
+    ],
+    [
+      3.2e-05,
+      "e"
+    ],
+    [
+      6.6e-05,
+      "a"
+    ],
+    [
+      4.9e-05,
+      "t-s"
+    ],
+    [
+      6.3e-05,
+      "pecificatio"
+    ],
+    [
+      4.3e-05,
+      "n \r\r\n        "
+    ],
+    [
+      8.9e-05,
+      "           "
+    ],
+    [
+      0.000237,
+      "            "
+    ],
+    [
+      8.5e-05,
+      "         "
+    ],
+    [
+      0.000505,
+      "files\r\r\n  --vcf arg        "
+    ],
+    [
+      0.000392,
+      "                     Output VCF file\r\r\n  --json arg                            Output JSON file\r\r\n  --log arg                             Output read alignment file\r\r\n  --region-extension-length arg (=1000) H"
+    ],
+    [
+      0.0003,
+      "ow far from on/off-ta"
+    ],
+    [
+      4.4e-05,
+      "rget regions to \r\r\n"
+    ],
+    [
+      0.000406,
+      " "
+    ],
+    [
+      0.00014,
+      "    "
+    ],
+    [
+      0.000125,
+      "           "
+    ],
+    [
+      0.000251,
+      "        "
+    ],
+    [
+      5.9e-05,
+      "      "
+    ],
+    [
+      0.000217,
+      " "
+    ],
+    [
+      0.0003,
+      " "
+    ],
+    [
+      0.000317,
+      " "
+    ],
+    [
+      0.000193,
+      " "
+    ],
+    [
+      0.000242,
+      " "
+    ],
+    [
+      8.1e-05,
+      " "
+    ],
+    [
+      0.000247,
+      " "
+    ],
+    [
+      7.3e-05,
+      "   search for i"
+    ],
+    [
+      0.000608,
+      "nformative reads\r\r\n"
+    ],
+    [
+      0.00012,
+      "  --min-score arg (=0.90)  "
+    ],
+    [
+      8.9e-05,
+      "             Minimum we"
+    ],
+    [
+      5.9e-05,
+      "ighted purity sco"
+    ],
+    [
+      6.7e-05,
+      "re required "
+    ],
+    [
+      6.2e-05,
+      "\r\r\n           "
+    ],
+    [
+      8.6e-05,
+      "           "
+    ],
+    [
+      4.3e-05,
+      "            "
+    ],
+    [
+      7.7e-05,
+      "      to fl"
+    ],
+    [
+      6.1e-05,
+      "ag a read a"
+    ],
+    [
+      6.5e-05,
+      "s an in-rep"
+    ],
+    [
+      6.5e-05,
+      "eat read; \r\r\n"
+    ],
+    [
+      7.2e-05,
+      "           "
+    ],
+    [
+      5.1e-05,
+      "             "
+    ],
+    [
+      6.9e-05,
+      "            "
+    ],
+    [
+      7.2e-05,
+      "    must be"
+    ],
+    [
+      7.8e-05,
+      " between 0"
+    ],
+    [
+      6.6e-05,
+      " and 1\r\r\n  --min-baseq arg (=20)"
+    ],
+    [
+      5.1e-05,
+      "       "
+    ],
+    [
+      7.4e-05,
+      "          M"
+    ],
+    [
+      6.1e-05,
+      "inimum qua"
+    ],
+    [
+      6.3e-05,
+      "lity of a "
+    ],
+    [
+      7.6e-05,
+      "high-confi"
+    ],
+    [
+      6e-05,
+      "dence \r\r\n    "
+    ],
+    [
+      7.1e-05,
+      "           "
+    ],
+    [
+      5.9e-05,
+      "          "
+    ],
+    [
+      6.5e-05,
+      "            "
+    ],
+    [
+      6.2e-05,
+      "   base cal"
+    ],
+    [
+      7.6e-05,
+      "l\r\r\n  --min-anchor-mapq arg (=60)   "
+    ],
+    [
+      0.000393,
+      "        Minimum MAPQ of a read anchor\r\r\n"
+    ],
+    [
+      0.000254,
+      "  --skip-unaligned  "
+    ],
+    [
+      0.000156,
+      "                    Skip unaligned reads when searching "
+    ],
+    [
+      3.2e-05,
+      "for\r\r\n                "
+    ],
+    [
+      7.6e-05,
+      "             "
+    ],
+    [
+      8.2e-05,
+      "           I"
+    ],
+    [
+      7.9e-05,
+      "RRs\r\r\n  --read-depth arg (=calculated if not set)\r\r\n   "
+    ],
+    [
+      6.5e-05,
+      "              "
+    ],
+    [
+      0.000117,
+      "            "
+    ],
+    [
+      6.1e-05,
+      "           Read depth"
+    ],
+    [
+      6.6e-05,
+      "\r\r\n  --sex arg (=female)  "
+    ],
+    [
+      2.9e-05,
+      "             "
+    ],
+    [
+      5.6e-05,
+      "    Sex of"
+    ],
+    [
+      0.000377,
+      " the sample"
+    ],
+    [
+      0.002471,
+      "; must "
+    ],
+    [
+      0.000237,
+      "be either male \r\r\n                                        or female\r\r\n\r\r\n"
+    ],
+    [
+      0.014719,
+      "\u001b]0;maartenk@ubuntu: ~/docker/alpine/expansionhunter\u0007\u001b[01;32mmaartenk@ubuntu\u001b[00m:\u001b[01;34m~/docker/alpine/expansionhunter\u001b[00m$ "
+    ],
+    [
+      0.5,
+      "m"
+    ],
+    [
+      0.126527,
+      "v"
+    ],
+    [
+      0.218271,
+      " "
+    ],
+    [
+      0.5,
+      "expansionhunter_2.5.1-dev-2017-06-22-3\r3579bd99f935.img"
+    ],
+    [
+      0.5,
+      " "
+    ],
+    [
+      0.5,
+      "e"
+    ],
+    [
+      0.5,
+      "x"
+    ],
+    [
+      0.239222,
+      "p"
+    ],
+    [
+      0.12775,
+      "a"
+    ],
+    [
+      0.163649,
+      "n"
+    ],
+    [
+      0.150044,
+      "s"
+    ],
+    [
+      0.186368,
+      "i"
+    ],
+    [
+      0.120136,
+      "o"
+    ],
+    [
+      0.179311,
+      "n"
+    ],
+    [
+      0.5,
+      "h"
+    ],
+    [
+      0.269127,
+      "u"
+    ],
+    [
+      0.000665,
+      "n"
+    ],
+    [
+      0.124757,
+      "t"
+    ],
+    [
+      0.200385,
+      "e"
+    ],
+    [
+      0.119987,
+      "r"
+    ],
+    [
+      0.5,
+      "."
+    ],
+    [
+      0.5,
+      "i"
+    ],
+    [
+      0.291812,
+      "m"
+    ],
+    [
+      0.143373,
+      "g"
+    ],
+    [
+      0.5,
+      "\r\r\n\u001b]0;maartenk@ubuntu: ~/docker/alpine/expansionhunter\u0007\u001b[01;32mmaartenk@ubuntu\u001b[00m:\u001b[01;34m~/docker/alpine/expansionhunter\u001b[00m$ "
+    ],
+    [
+      0.5,
+      "exit"
+    ],
+    [
+      0.000297,
+      "\r\r\n"
+    ]
+  ]
+}

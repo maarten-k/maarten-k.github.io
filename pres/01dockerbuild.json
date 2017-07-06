@@ -1,0 +1,566 @@
+{
+  "version": 1,
+  "width": 107,
+  "height": 26,
+  "duration": 24.457804,
+  "command": "asciinema play -w 0.5 dockerbuild.json",
+  "title": null,
+  "env": {
+    "TERM": "xterm-256color",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.47584,
+      "\u001b[?1034hbash-3.2$ "
+    ],
+    [
+      0.5,
+      "s"
+    ],
+    [
+      0.187273,
+      "u"
+    ],
+    [
+      0.097423,
+      "d"
+    ],
+    [
+      0.166322,
+      "o"
+    ],
+    [
+      0.360024,
+      " "
+    ],
+    [
+      0.475669,
+      "d"
+    ],
+    [
+      0.158025,
+      "o"
+    ],
+    [
+      0.077806,
+      "c"
+    ],
+    [
+      0.144279,
+      "k"
+    ],
+    [
+      0.090306,
+      "e"
+    ],
+    [
+      0.216575,
+      "r"
+    ],
+    [
+      0.5,
+      " "
+    ],
+    [
+      0.494626,
+      "b"
+    ],
+    [
+      0.25441,
+      "u"
+    ],
+    [
+      0.208413,
+      "i"
+    ],
+    [
+      0.308835,
+      "l"
+    ],
+    [
+      0.284158,
+      "d"
+    ],
+    [
+      0.5,
+      " "
+    ],
+    [
+      0.34891,
+      "."
+    ],
+    [
+      0.5,
+      " "
+    ],
+    [
+      0.376285,
+      "-"
+    ],
+    [
+      0.48344,
+      "t"
+    ],
+    [
+      0.240131,
+      " "
+    ],
+    [
+      0.5,
+      "e"
+    ],
+    [
+      0.479345,
+      "x"
+    ],
+    [
+      0.5,
+      "p"
+    ],
+    [
+      0.141294,
+      "a"
+    ],
+    [
+      0.148041,
+      "n"
+    ],
+    [
+      0.377128,
+      "s"
+    ],
+    [
+      0.14919,
+      "i"
+    ],
+    [
+      0.095539,
+      "o"
+    ],
+    [
+      0.184669,
+      "n"
+    ],
+    [
+      0.404914,
+      "h"
+    ],
+    [
+      0.162355,
+      "u"
+    ],
+    [
+      0.160739,
+      "n"
+    ],
+    [
+      0.103471,
+      "t"
+    ],
+    [
+      0.129916,
+      "e"
+    ],
+    [
+      0.136972,
+      "r"
+    ],
+    [
+      0.5,
+      ":"
+    ],
+    [
+      0.435107,
+      "2"
+    ],
+    [
+      0.344718,
+      "."
+    ],
+    [
+      0.5,
+      "5"
+    ],
+    [
+      0.095422,
+      "."
+    ],
+    [
+      0.334146,
+      "1"
+    ],
+    [
+      0.5,
+      "-"
+    ],
+    [
+      0.5,
+      "d"
+    ],
+    [
+      0.107262,
+      "e"
+    ],
+    [
+      0.5,
+      "b"
+    ],
+    [
+      0.499914,
+      "\b\u001b[K"
+    ],
+    [
+      0.131941,
+      "b"
+    ],
+    [
+      0.5,
+      "\b\u001b[K"
+    ],
+    [
+      0.084065,
+      "v"
+    ],
+    [
+      0.5,
+      "\r\r\n"
+    ],
+    [
+      0.04995,
+      "Password:"
+    ],
+    [
+      0.5,
+      "\r\r\n"
+    ],
+    [
+      0.39337,
+      "Sending build context to Docker daemon 3.072 kB\r\r\r\r\n"
+    ],
+    [
+      0.123439,
+      "Step 1/6 : FROM alpine:3.6\r\r\n"
+    ],
+    [
+      0.000807,
+      " ---> 665ffb03bfae\r\r\n"
+    ],
+    [
+      0.000119,
+      "Step 2/6 : RUN apk add --no-cache build-base boost boost-dev cmake gcc git zlib-dev zlib\r\r\n"
+    ],
+    [
+      0.000957,
+      " ---> Using cache\r\r\n"
+    ],
+    [
+      0.00092,
+      " ---> 003c49a993af\r\r\n"
+    ],
+    [
+      0.000957,
+      "Step 3/6 : RUN git clone https://github.com/Illumina/ExpansionHunter.git &&  cd ExpansionHunter &&  mkdir build && cd build && cmake .. && make  && mv ExpansionHunter /usr/bin/. && cd / && rm -rf ExpansionHunter\r\r\n"
+    ],
+    [
+      0.000729,
+      " ---> Using cache\r\r\n"
+    ],
+    [
+      0.000965,
+      " ---> 1ec4c4bf44fd\r\r\n"
+    ],
+    [
+      0.000369,
+      "Step 4/6 : RUN apk del build-base cmake gcc git zlib-dev\r\r\n"
+    ],
+    [
+      0.000866,
+      " ---> Using cache\r\r\n"
+    ],
+    [
+      0.000844,
+      " ---> d6e07da70442\r\r\n"
+    ],
+    [
+      0.000635,
+      "Step 5/6 : ENTRYPOINT ExpansionHunter\r\r\n"
+    ],
+    [
+      0.001172,
+      " ---> Using cache\r\r\n"
+    ],
+    [
+      0.00068,
+      " ---> d65b0b389a35\r\r\n"
+    ],
+    [
+      0.000312,
+      "Step 6/6 : CMD --help\r\r\n"
+    ],
+    [
+      0.000719,
+      " ---> Using cache\r\r\n"
+    ],
+    [
+      0.000466,
+      " ---> 48165724cb56\r\r\n"
+    ],
+    [
+      0.036495,
+      "Successfully built 48165724cb56\r\r\n"
+    ],
+    [
+      0.013752,
+      "bash-3.2$ "
+    ],
+    [
+      0.5,
+      "s"
+    ],
+    [
+      0.12948,
+      "u"
+    ],
+    [
+      0.088012,
+      "d"
+    ],
+    [
+      0.147701,
+      "o"
+    ],
+    [
+      0.282873,
+      " "
+    ],
+    [
+      0.5,
+      "d"
+    ],
+    [
+      0.117745,
+      "o"
+    ],
+    [
+      0.148691,
+      "c"
+    ],
+    [
+      0.13929,
+      "k"
+    ],
+    [
+      0.100611,
+      "e"
+    ],
+    [
+      0.241729,
+      "r"
+    ],
+    [
+      0.5,
+      " "
+    ],
+    [
+      0.5,
+      "r"
+    ],
+    [
+      0.091583,
+      "u"
+    ],
+    [
+      0.138363,
+      "n"
+    ],
+    [
+      0.211721,
+      " "
+    ],
+    [
+      0.5,
+      "expansionhunter:2.5.1-dev"
+    ],
+    [
+      0.5,
+      "\r\r\n"
+    ],
+    [
+      0.5,
+      "Expansion Hunter v2.5.1\r\r\n"
+    ],
+    [
+      0.001832,
+      "Allowed options:\r\r\n  --help                                Print help message\r\r\n  --version                             Print version number\r\r\n  --bam arg           "
+    ],
+    [
+      0.000509,
+      "                  BAM file\r\r\n  --ref-fasta arg                       FASTA file with reference genome\r\r\n  --repeat-specs arg     "
+    ],
+    [
+      0.001337,
+      "               Directory with repeat-spec"
+    ],
+    [
+      0.00048,
+      "if"
+    ],
+    [
+      0.000405,
+      "ication "
+    ],
+    [
+      0.000424,
+      "\r\r\n                                        "
+    ],
+    [
+      0.000427,
+      "files"
+    ],
+    [
+      0.000411,
+      "\r\r\n  --vcf arg          "
+    ],
+    [
+      0.000793,
+      "                   Output VCF file\r\r\n  --json arg               "
+    ],
+    [
+      0.00073,
+      "             Output JSON file\r\r\n  --log arg               "
+    ],
+    [
+      0.00045,
+      "             "
+    ],
+    [
+      0.000522,
+      " Output read alignment file"
+    ],
+    [
+      0.000564,
+      "\r\r\n  --region-extension-length arg (=1000) How far from on/"
+    ],
+    [
+      0.000459,
+      "off-target"
+    ],
+    [
+      0.000403,
+      " regions to \r\r\n  "
+    ],
+    [
+      0.000346,
+      "    "
+    ],
+    [
+      0.000453,
+      "           "
+    ],
+    [
+      0.000424,
+      "        "
+    ],
+    [
+      0.000461,
+      "      "
+    ],
+    [
+      0.000325,
+      "     "
+    ],
+    [
+      0.000487,
+      "    sea"
+    ],
+    [
+      0.00048,
+      "rch for "
+    ],
+    [
+      0.000599,
+      "informativ"
+    ],
+    [
+      0.000548,
+      "e rea"
+    ],
+    [
+      0.000621,
+      "ds\r\r\n  --min-score arg (=0.90)               Minimum weighte"
+    ],
+    [
+      0.000542,
+      "d purity s"
+    ],
+    [
+      0.001392,
+      "core required \r\r\n                           "
+    ],
+    [
+      0.000105,
+      "            "
+    ],
+    [
+      0.000354,
+      " to flag"
+    ],
+    [
+      0.000426,
+      " a read as an in-repeat read; \r\r\n                                        must be between 0 and 1\r\r\n"
+    ],
+    [
+      0.000336,
+      "  --min-baseq arg (=20) "
+    ],
+    [
+      0.000538,
+      "             "
+    ],
+    [
+      0.000605,
+      "   "
+    ],
+    [
+      0.000955,
+      "Minimum quality of a high-confidence \r\r\n                 "
+    ],
+    [
+      0.000483,
+      "          "
+    ],
+    [
+      0.001146,
+      "  "
+    ],
+    [
+      0.00024,
+      "           base call\r\r\n  --min-anchor-mapq arg (=60)           Minimum MAPQ of a read anchor\r\r\n  --skip-unaligned                      Skip unaligned reads when searching for\r\r\n                                        IRRs\r\r\n  --read-depth arg (=calculated if not set)\r\r\n                                        Read depth\r\r\n  --sex arg (=female)                   Sex of the sample; must be either male \r\r\n                                        or female\r\r\n\r\r\n"
+    ],
+    [
+      0.121273,
+      "bash-3.2$ "
+    ],
+    [
+      0.5,
+      "e"
+    ],
+    [
+      0.152774,
+      "x"
+    ],
+    [
+      0.160121,
+      "i"
+    ],
+    [
+      0.155103,
+      "t"
+    ],
+    [
+      0.198861,
+      "\r\r\n"
+    ]
+  ]
+}
